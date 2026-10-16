@@ -1,12 +1,12 @@
 ﻿mfd	ns	n	d	tp	upd
-VENDOR	8g000023	8G000023	Стекло лобовое audi "80" '1978-1986 зп тз 8526agnbl	-1	1694944871555
-VENDOR	8g000034	8G000034	Стекло лобовое audi "A4" i b5 4d sed (94-00) / 5d avant (96-01) '1994-2001 зп тз #8547agnblv	-1	1690554196647
-VENDOR	8g000051	8G000051	Стекло лобовое audi "A6" 4d sed / 5d wagon '2012- зп тз дд #8611agnblpv	-1	1693831517877
-VENDOR	8g000065	8G000065	Стекло лобовое audi "Q3" 5d suv '2011- зп тз дд #8614agnblpv	-1	1690554622299
+VENDOR	8g000023	8G000023	"Стекло лобовое audi ""80"" '1978-1986 зп тз 8526agnbl"	-1	1694944871555
+VENDOR	8g000034	8G000034	"Стекло лобовое audi ""A4"" i b5 4d sed (94-00) / 5d avant (96-01) '1994-2001 зп тз #8547agnblv"	-1	1690554196647
+VENDOR	8g000051	8G000051	"Стекло лобовое audi ""A6"" 4d sed / 5d wagon '2012- зп тз дд #8611agnblpv"	-1	1693831517877
+VENDOR	8g000065	8G000065	"Стекло лобовое audi ""Q3"" 5d suv '2011- зп тз дд #8614agnblpv"	-1	1690554622299
 VENDOR	8g000194	8G000194	Стекло ветровое bmw x6 e71 5d suv с молдингом (верх)	-1	1785190130000
-VENDOR	8g000266	8G000266	Стекло лобовое chevrolet "Lanos" // daewoo "Lanos" 3/5d hbk/sed (97-03) // zaz "Sens-Chance" 4d sed / 5d hbk (04-) / 2d pick-up (06-) '1997-2017 зп тз #3003agnbl	-1	1690554760256
+VENDOR	8g000266	8G000266	"Стекло лобовое chevrolet ""Lanos"" // daewoo ""Lanos"" 3/5d hbk/sed (97-03) // zaz ""Sens-Chance"" 4d sed / 5d hbk (04-) / 2d pick-up (06-) '1997-2017 зп тз #3003agnbl"	-1	1690554760256
 VENDOR	8g000336	8G000336	Стекло ветровое citroen c5 ii 5d lbk / 5d break	-1	1745848797092
-VENDOR	8g000338	8G000338	Стекло лобовое citroen "DS3" 3d hbk '2009-2015 зп тз дд #2745agnblpv	-1	1690554195501
+VENDOR	8g000338	8G000338	"Стекло лобовое citroen ""DS3"" 3d hbk '2009-2015 зп тз дд #2745agnblpv"	-1	1690554195501
 VENDOR	8g000438	8G000438	Стекло ветровое ford c-max / focus c-max i 5d mpv	-1	1693831509045
 VENDOR	8g000489	8G000489	Стекло ветровое ford focus ii 3/5d hbk / 4d sed / 5d stw (полный обогрев)	-1	1690553644293
 VENDOR	8g000493	8G000493	Стекло ветровое ford focus ii 3/5d hbk / 4d sed / 5d stw (полный обогрев) с держателем зеркала и молдинг (п+низ)	-1	1690553644293
@@ -32,11 +32,11 @@ VENDOR	8g001114	8G001114	Стекло ветровое kia sorento ii реста
 VENDOR	8g001115	8G001115	Стекло ветровое kia sorento ii рестайлинг 5d suv (обогрев щеток)	-1	1690554352166
 VENDOR	8g001116	8G001116	Стекло ветровое kia sorento prime 5d suv (обогрев щеток)	-1	1699643217038
 VENDOR	8g001146	8G001146	Стекло ветровое kia sportage iv 5d suv	-1	1691173967786
-VENDOR	8g001477	8G001477	Стекло лобовое mercedes "GL-Class W166" ii | "M-Class W166" iii (11-15) 5d suv '2012-2016 #5378 зп тз дд (обогрев щеток, обогрев камеры))	-1	1785190131000
-VENDOR	8g001569	8G001569	Стекло лобовое mitsubishi "L200" iv | "Triton" ii 2/4d pick-up (06-14) | "Pajero Sport" ii (08-16) | "Montero Sport" 5d suv (96-08) '2006-2015 зп тз #5679agnbl	-1	1688822150546
-VENDOR	8g001573	8G001573	Стекло лобовое mitsubishi "L200" iv | "Triton" ii 2/4d pick-up (06-14) | "Pajero Sport" ii (08-16) | "Montero Sport" 5d suv (96-08) '2006-2015 зп тз молдинг (верх) #5679agnblz	-1	1688822152507
-VENDOR	8g001581	8G001581	Стекло лобовое mitsubishi "Lancer" ix 4d sed / 5d wagon '2000-2007 зп тз #5670agnbl	-1	1688821992688
-VENDOR	8g001582	8G001582	Стекло лобовое mitsubishi "Lancer" ix 4d sed / 5d wagon '2000-2007 #5670 зп тз молдинг (верх)	-1	1688821992688
+VENDOR	8g001477	8G001477	"Стекло лобовое mercedes ""GL-Class W166"" ii | ""M-Class W166"" iii (11-15) 5d suv '2012-2016 #5378 зп тз дд (обогрев щеток, обогрев камеры))"	-1	1785190131000
+VENDOR	8g001569	8G001569	"Стекло лобовое mitsubishi ""L200"" iv | ""Triton"" ii 2/4d pick-up (06-14) | ""Pajero Sport"" ii (08-16) | ""Montero Sport"" 5d suv (96-08) '2006-2015 зп тз #5679agnbl"	-1	1688822150546
+VENDOR	8g001573	8G001573	"Стекло лобовое mitsubishi ""L200"" iv | ""Triton"" ii 2/4d pick-up (06-14) | ""Pajero Sport"" ii (08-16) | ""Montero Sport"" 5d suv (96-08) '2006-2015 зп тз молдинг (верх) #5679agnblz"	-1	1688822152507
+VENDOR	8g001581	8G001581	"Стекло лобовое mitsubishi ""Lancer"" ix 4d sed / 5d wagon '2000-2007 зп тз #5670agnbl"	-1	1688821992688
+VENDOR	8g001582	8G001582	"Стекло лобовое mitsubishi ""Lancer"" ix 4d sed / 5d wagon '2000-2007 #5670 зп тз молдинг (верх)"	-1	1688821992688
 VENDOR	8g001661	8G001661	Стекло ветровое nissan ad ii y11 rhd 5d van / wingroad ii rhd 5d van (99-05) / mazda familia y11 rhd 5d van (99-08)	-1	1706604369995
 VENDOR	8g001666	8G001666	Стекло ветровое nissan almera ii n16 4d sed / almera classic 4d sed (06-13) / bluebird sylphy i g10 rhd 4d sed (00-05) / sunny (00-05) / renault samsung sm3 4d sed (02-09) (обогрев щеток)	-1	1690554353472
 VENDOR	8g001789	8G001789	Стекло ветровое nissan x-trail i t30 5d suv с молдингом	-1	1699643864693
@@ -64,11 +64,11 @@ VENDOR	8g002095	8G002095	Стекло лобовое skoda yeti i 5d suv рес�
 VENDOR	8g002138	8G002138	Стекло лобовое subaru forester iv 5d wagon	-1	1691174190097
 VENDOR	8g002258	8G002258	Стекло лобовое toyota avensis ii 4d sed / 5d hbk / 5d est (обогрев щеток)	-1	1711784215948
 VENDOR	8g002278	8G002278	Стекло лобовое toyota camry iii sv10 / sv35 / w10 4d sed / 5d wagon / scepter (92-96) rhd 4d sed / 5d wagon	-1	1706281741905
-VENDOR	8g002318	8G002318	Стекло лобовое toyota "Celica" v t180 2d | "Carina ED" ii 4d sed '1989-1993 зп тз	-1	1705477114353
-VENDOR	8g002433	8G002433	Стекло лобовое toyota "Land Cruiser Prado" 120 3/5d suv // lexus "GX 470" 5d suv '2002-2009 зп тз #8341agnblv	-1	1690554504980
-VENDOR	8g002501	8G002501	Стекло лобовое toyota "Premio" i t24 4d sed | "Allion" i 4d sed '2001-2007 зп тз (правый руль)	-1	1690555042433
-VENDOR	8g002544	8G002544	Стекло лобовое toyota "RAV 4" iii xa30 5d suv '2005-2014 зп тз дд (обогрев щеток) молдинг (верх) #8372agnblhpvz	-1	1690554509211
-VENDOR	8g002651	8G002651	Стекло лобовое volkswagen "Passat" b6 4d sed '2005-2010 тз (полный электрообогрев) #8584agnhv	-1	1690554502992
+VENDOR	8g002318	8G002318	"Стекло лобовое toyota ""Celica"" v t180 2d | ""Carina ED"" ii 4d sed '1989-1993 зп тз"	-1	1705477114353
+VENDOR	8g002433	8G002433	"Стекло лобовое toyota ""Land Cruiser Prado"" 120 3/5d suv // lexus ""GX 470"" 5d suv '2002-2009 зп тз #8341agnblv"	-1	1690554504980
+VENDOR	8g002501	8G002501	"Стекло лобовое toyota ""Premio"" i t24 4d sed | ""Allion"" i 4d sed '2001-2007 зп тз (правый руль)"	-1	1690555042433
+VENDOR	8g002544	8G002544	"Стекло лобовое toyota ""RAV 4"" iii xa30 5d suv '2005-2014 зп тз дд (обогрев щеток) молдинг (верх) #8372agnblhpvz"	-1	1690554509211
+VENDOR	8g002651	8G002651	"Стекло лобовое volkswagen ""Passat"" b6 4d sed '2005-2010 тз (полный электрообогрев) #8584agnhv"	-1	1690554502992
 VENDOR	8g003070	8G003070	Стекло chevrolet lacetti 4d sed / 5d hbk / 5d wagon / optra (04-13) / nubira (04-13) / daewoo gentra 4d sed (13-) / suzuki forenza 4d sed / 5d wagon (04-09) / reno (04-08) пер. дв. опускн. прав. тз	-1	1723473890375
 VENDOR	8g003152	8G003152	Стекло fiat ducato (елабуга) боковое сдвижной двери правое рамка раздвижная в сборе тз	-1	1785187080000
 VENDOR	8g003160	8G003160	Стекло fiat ducato (елабуга) боковое сдвижной двери правое тз	-1	1785187080000
@@ -94,8 +94,8 @@ VENDOR	8g003955	8G003955	Стекло vw golf v 3/5d hbk заднее с эо с
 VENDOR	8g003975	8G003975	Стекло vw polo v 4d sed заднее опускное левое тз	-1	1785187080000
 VENDOR	8g004018	8G004018	Стекло vw transporter t5 / multivan / caravelle van боковина задняя лев. тз	-1	1785190131000
 VENDOR	8g004019	8G004019	Стекло vw transporter t5 / multivan / caravelle van боковина задняя прав. тз	-1	1785190131000
-VENDOR	8g004077	8G004077	ВАЗ "1118" I (Калина) 4D Sed / 5D Hbk / 5D Wagon ТЗ ДД Стекло лобовое	-1	1705477130013
-VENDOR	8g004548	8G004548	Стекло боковое ваз "2108" | "2113" 3d hbk '1984-2013 #4502 пер. дв. оп. лев. (1060*526)	-1	1693831503051
-VENDOR	8g009080	8G009080	ВАЗ "1118" I (Калина) 4D Sed / 5D Hbk / 5D Wagon ТЗ Стекло	-1	1705477130024
+VENDOR	8g004077	8G004077	"ВАЗ ""1118"" I (Калина) 4D Sed / 5D Hbk / 5D Wagon ТЗ ДД Стекло лобовое"	-1	1705477130013
+VENDOR	8g004548	8G004548	"Стекло боковое ваз ""2108"" | ""2113"" 3d hbk '1984-2013 #4502 пер. дв. оп. лев. (1060*526)"	-1	1693831503051
+VENDOR	8g009080	8G009080	"ВАЗ ""1118"" I (Калина) 4D Sed / 5D Hbk / 5D Wagon ТЗ Стекло"	-1	1705477130024
 VENDOR	8g010645	8G010645	Стекло kia rio iii 4d sed заднее эо	-1	1690554351462
 VENDOR	8g010647	8G010647	Стекло kia rio iv 4d sed заднее эо	-1	1711781266507

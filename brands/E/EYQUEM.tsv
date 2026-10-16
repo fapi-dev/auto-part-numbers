@@ -71,8 +71,8 @@ EYQUEM	rc72ls	RC 72 LS	Свеча зажигания	1	1771248211273
 EYQUEM	rc82ls	RC 82 LS	Свеча зажигания	1	1771248117579
 EYQUEM	rfc32lz5	RFC32LZ5	Свеча зажигания	1	1739653200000
 EYQUEM	rfc42ls	RFC 42 LS	Свеча зажигания	1	1770991317237
-EYQUEM	rfc42lz2e	RFC 42 LZ 2E	Свеча зажигания "SUPER"	1	1761572577877
-EYQUEM	rfc50lz2e	RFC 50 LZ 2E	Свеча зажигания "Super"	1	1739653200000
+EYQUEM	rfc42lz2e	RFC 42 LZ 2E	"Свеча зажигания ""SUPER"""	1	1761572577877
+EYQUEM	rfc50lz2e	RFC 50 LZ 2E	"Свеча зажигания ""Super"""	1	1739653200000
 EYQUEM	rfc52ls	RFC 52 LS	Свеча зажигания	1	1770450595467
 EYQUEM	rfc52ls3	RFC 52 LS 3	Свеча зажигания	1	1748798062032
 EYQUEM	rfc52ls5	RFC 52 LS5	Свеча зажигания	1	1739653200000

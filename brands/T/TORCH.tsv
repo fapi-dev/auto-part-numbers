@@ -3,17 +3,17 @@ TORCH	5580	5 580	Spark plug	1	1739653200000
 TORCH	a7rtc	A 7 RTC	Свеча зажигания с медным электродом	1	1734501311212
 TORCH	a7tc	A 7 TC	СВЕЧА ЗАЖИГАНИЯ	1	1760079544718
 TORCH	d8c	D 8 C	Свеча зажигания	1	1768312596603
-TORCH	dk7riu	DK7RIU	Свеча зажигания "IRIDIUM+U"	-1	1769520302843
-TORCH	dk7rpu	DK7RPU	Свеча зажигания "PLATINUM+U"	-1	1769520302843
+TORCH	dk7riu	DK7RIU	"Свеча зажигания ""IRIDIUM+U"""	-1	1769520302843
+TORCH	dk7rpu	DK7RPU	"Свеча зажигания ""PLATINUM+U"""	-1	1769520302843
 TORCH	dk7rtc	DK 7 RTC	Свеча зажигания	1	1757498206835
-TORCH	dk7rtcu	DK7RTCU	Свеча зажигания "EFFECTIVE+U"	1	1769520201392
+TORCH	dk7rtcu	DK7RTCU	"Свеча зажигания ""EFFECTIVE+U"""	1	1769520201392
 TORCH	e5rtcu	E5RTCU	Свеча зажигания с медным электродом	-1	1716979251304
 TORCH	e7rtc	E 7 RTC	Свеча зажигания	1	1758696574909
 TORCH	f5rtcu	F5RTCU	Свеча зажигания с медным электродом	-1	1772882886656
-TORCH	f6riu11	F6RIU-11	Свеча зажигания "IRIDIUM+U"	-1	1770216085781
+TORCH	f6riu11	F6RIU-11	"Свеча зажигания ""IRIDIUM+U"""	-1	1770216085781
 TORCH	f6rtc	F 6 RTC	Свеча зажигания	1	1770043076905
 TORCH	f6rtcu	F6RTCU	Свеча зажигания с медным электродом	-1	1772882886656
-TORCH	f6rtcu11	F6RTCU-11	Свеча зажигания "EFFECTIVE+U"	1	1770190370723
+TORCH	f6rtcu11	F6RTCU-11	"Свеча зажигания ""EFFECTIVE+U"""	1	1770190370723
 TORCH	f6tc	F 6 TC	СВЕЧА CHERY QQ6	1	1771247856289
 TORCH	f7tc	F 7 TC	Свеча зажигания torch f7tc	1	1766917277451
 TORCH	f9rc	F9RC	Свеча зажигания	-1	1764597435021
@@ -29,17 +29,17 @@ TORCH	k5rtcu	K5RTCU	Свеча зажигания	-1	1771400050154
 TORCH	k5rtcu11	K5RTCU-11	Свеча зажигания	1	1770352252046
 TORCH	k6rau	K6RAU	Свеча зажигания с медным электродом	1	1739653200000
 TORCH	k6rau11	K6RAU-11	Свеча зажигания	1	1770478416018
-TORCH	k6rbiu11	K6RBIU-11	Свеча зажигания "IRIDIUM+U"	1	1770033805393
-TORCH	k6rbu11	K6RBU-11	Свеча зажигания "EFFECTIVE+U"	-1	1770033805393
+TORCH	k6rbiu11	K6RBIU-11	"Свеча зажигания ""IRIDIUM+U"""	1	1770033805393
+TORCH	k6rbu11	K6RBU-11	"Свеча зажигания ""EFFECTIVE+U"""	-1	1770033805393
 TORCH	k6rf11	K6RF-11	Свеча зажигания	1	1766491621300
-TORCH	k6riu	K6RIU	Свеча зажигания "IRIDIUM+U"	1	1769687171347
-TORCH	k6riu11	K6RIU-11	Свеча зажигания "IRIDIUM+U"	1	1769749074277
-TORCH	k6rpu	K6RPU	Свеча зажигания "PLATINUM+U"	-1	1769687171347
-TORCH	k6rpu11	K6RPU-11	Свеча зажигания "PLATINUM+U"	-1	1769749074277
+TORCH	k6riu	K6RIU	"Свеча зажигания ""IRIDIUM+U"""	1	1769687171347
+TORCH	k6riu11	K6RIU-11	"Свеча зажигания ""IRIDIUM+U"""	1	1769749074277
+TORCH	k6rpu	K6RPU	"Свеча зажигания ""PLATINUM+U"""	-1	1769687171347
+TORCH	k6rpu11	K6RPU-11	"Свеча зажигания ""PLATINUM+U"""	-1	1769749074277
 TORCH	k6rtc	K 6 RTC	Свеча зажигания	1	1772725959680
 TORCH	k6rtc11	K 6 RTC 11	Свеча зажигания	1	1739653200000
-TORCH	k6rtcu	K6RTCU	Свеча зажигания "EFFECTIVE+U"	1	1769678938687
-TORCH	k6rtcu11	K6RTCU-11	Свеча зажигания "EFFECTIVE+U"	1	1771479411141
+TORCH	k6rtcu	K6RTCU	"Свеча зажигания ""EFFECTIVE+U"""	1	1769678938687
+TORCH	k6rtcu11	K6RTCU-11	"Свеча зажигания ""EFFECTIVE+U"""	1	1771479411141
 TORCH	k6rtm3	K6RTM3	Свеча зажигания	1	1770190850942
 TORCH	k6tc	K 6 TC	СВЕЧА ЗАЖИГАНИЯ	1	1739653200000
 TORCH	k7riu	K7RIU	Свеча зажигания	1	1772731429327
@@ -53,29 +53,29 @@ TORCH	kh6riu	KH6RIU	Свеча зажигания двс [iridium+/]	-1	17701908
 TORCH	kh6riu11	KH6RIU-11	Свеча зажигания	1	1770190850942
 TORCH	kl7rtpp	KL7RTPP	Свеча зажигания zotye t600	1	1770553286341
 TORCH	l7rtc	L 7 RTC	Свеча зажигания	1	1763989191400
-TORCH	ld6riu11	LD6RIU-11	Свеча зажигания "IRIDIUM+U"	1	1770743881669
+TORCH	ld6riu11	LD6RIU-11	"Свеча зажигания ""IRIDIUM+U"""	1	1770743881669
 TORCH	ld7riu	LD7RIU	Свеча зажигания с иридиевым электродом	-1	1758789857769
 TORCH	ld7riu11	LD7RIU-11	Свеча зажигания	1	1770025707843
 TORCH	ld7rpu	LD7RPU	Свеча зажигания с платиновым электродом	1	1772278768596
 TORCH	ld7rpu11	LD7RPU-11	Свеча зажигания	-1	1772719905901
 TORCH	ld7rtcu11	LD7RTCU-11	Свеча зажигания двс	-1	1770366217595
 TORCH	ldk7raiu	LDK7RAIU	Свеча зажигания	1	1770103715401
-TORCH	ldk7riu	LDK7RIU	Свеча зажигания "IRIDIUM+U"	-1	1772002453368
+TORCH	ldk7riu	LDK7RIU	"Свеча зажигания ""IRIDIUM+U"""	-1	1772002453368
 TORCH	ldk7riu11	LDK7RIU-11	Ldk7riu-11 свеча	1	1766582378874
-TORCH	ldk7rpu	LDK7RPU	Свеча зажигания "PLATINUM+U"	1	1772002453368
-TORCH	ldk7rtcu	LDK7RTCU	Свеча зажигания "EFFECTIVE+U"	1	1769592649482
+TORCH	ldk7rpu	LDK7RPU	"Свеча зажигания ""PLATINUM+U"""	1	1772002453368
+TORCH	ldk7rtcu	LDK7RTCU	"Свеча зажигания ""EFFECTIVE+U"""	1	1769592649482
 TORCH	oe208	OE208	Свечи зажигания иридиевые torch oe208 (f4j163707010)	-1	1769241249792
-TORCH	q6riu13	Q6RIU-13	Свеча зажигания "IRIDIUM+U"	-1	1770040706393
-TORCH	q6rpu13	Q6RPU-13	Свеча зажигания "PLATINUM+U"	-1	1770040706393
-TORCH	q6rtcu13	Q6RTCU-13	Свеча зажигания "EFFECTIVE+U"	1	1770040706393
-TORCH	qh5riu13	QH5RIU-13	Свеча зажигания "IRIDIUM+U"	1	1769864812978
-TORCH	qh5rtcu13	QH5RTCU-13	Свеча зажигания "EFFECTIVE+U"	1	1769864812978
+TORCH	q6riu13	Q6RIU-13	"Свеча зажигания ""IRIDIUM+U"""	-1	1770040706393
+TORCH	q6rpu13	Q6RPU-13	"Свеча зажигания ""PLATINUM+U"""	-1	1770040706393
+TORCH	q6rtcu13	Q6RTCU-13	"Свеча зажигания ""EFFECTIVE+U"""	1	1770040706393
+TORCH	qh5riu13	QH5RIU-13	"Свеча зажигания ""IRIDIUM+U"""	1	1769864812978
+TORCH	qh5rtcu13	QH5RTCU-13	"Свеча зажигания ""EFFECTIVE+U"""	1	1769864812978
 TORCH	qh6riu11	QH6RIU-11	Свеча зажигания	-1	1771505368478
 TORCH	te2	TE-2	Свеча, комплект 4штуки	-1	1772882886656
 TORCH	te2f5rtcu	TE-2(F5RTCU)	Свеча зажигания, блистер 4 шт.	-1	1714032988811
 TORCH	te3	TE-3	Свеча зажигания	-1	1772882886656
 TORCH	te3f6rtcu	TE-3(F6RTCU)	Свеча зажигания, блистер 4 шт.	-1	1759994596395
-TORCH	te4	TE-4	Свеча зажигания "EFFECTIVE+U"	-1	1759410410130
+TORCH	te4	TE-4	"Свеча зажигания ""EFFECTIVE+U"""	-1	1759410410130
 TORCH	tex10030a	TEX-10-030A	Катушка зажигания	-1	1763719640416
 TORCH	tex10113	TEX-10-113	Катушка зажигания	-1	1757414527127
 TORCH	tex10200	TEX-10-200	Катушка зажигания	1	1751338965953

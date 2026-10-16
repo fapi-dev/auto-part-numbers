@@ -1,6 +1,6 @@
 # FAPI auto parts: sample part numbers by brand
 
-This repository contains a sample of the FAPI part numbers base: 100 part numbers with part names per brand for 2,641 brands, one file per brand. `brands.csv` lists 11,010 brands of the base with their full-base and sample counts. A schema and load commands for MySQL, MariaDB and PostgreSQL are included.
+This repository contains a sample of the FAPI part numbers base: 100 part numbers with part names per brand for 2,641 brands, one file per brand. `brands.tsv` lists 11,010 brands of the base with their full-base and sample counts. A schema and load commands for MySQL, MariaDB and PostgreSQL are included.
 
 Developers and data engineers can load and query the sample to evaluate data for parts shop product cards and accounting system item lists. It includes OE and aftermarket numbers with Russian part names. The sample is for evaluation only.
 
@@ -9,7 +9,7 @@ Developers and data engineers can load and query the sample to evaluate data for
 | File | What it holds |
 |---|---|
 | `scheme.sql` | the table and its indexes; one file for all three servers |
-| `brands.csv` | the brands of the base, each with its number of part numbers in the full base and in this sample, and the path of its file |
+| `brands.tsv` | the brands of the base, each with its number of part numbers in the full base and in this sample, and the path of its file |
 | `brands/<X>/<BRAND>.tsv` | 100 part numbers of one brand |
 
 ### The brand files
@@ -17,18 +17,22 @@ Developers and data engineers can load and query the sample to evaluate data for
 - UTF-8 with a byte-order mark; lines end with CR LF; fields are separated by a TAB.
 - The first row names the six columns: `mfd`, `ns`, `n`, `d`, `tp`, `upd`. Every other row is
   one part number.
-- There is no quoting: whatever stands between two TABs is the value. No value holds a TAB or a
-  line break, and no value is empty.
+- A value that holds a `"` is quoted as RFC 4180 has it: the whole value between `"`, and every
+  `"` inside it doubled — `8791-1/2"` is written `"8791-1/2"""`. Every other value stands as it
+  is between two TABs. No value holds a TAB or a line break, and no value is empty.
+- The header row and this quoting are the two differences from the files of the full base, which
+  have no header and write a `"` as it is.
 - Rows are sorted by `ns`.
 - A file is named after the brand's normalised name: upper case, letters and digits. Anything
   a file system might refuse becomes `_`. `<X>` is the first character of that name, so no
   directory holds more than a few hundred files.
 - Some brands are Russian and are named in Cyrillic, and so are their files and directories.
 
-### `brands.csv`
+### `brands.tsv`
 
-UTF-8 with a byte-order mark, lines end with CR LF, values are separated by commas; a value
-that holds a comma or a quote is quoted, as RFC 4180 has it.
+The layout of the brand files: UTF-8 with a byte-order mark, lines end with CR LF, fields are
+separated by a TAB, the first row names the columns, and a value that holds a `"` is quoted the
+same way. A brand not in the sample has an empty `sample_file`.
 
 | Column | Meaning |
 |---|---|
@@ -43,7 +47,7 @@ that holds a comma or a quote is quoted, as RFC 4180 has it.
 |---|---|
 | Brands in the sample | 2 641 |
 | Rows in the sample | 264 100 |
-| Brands in `brands.csv` | 11 010 |
+| Brands in `brands.tsv` | 11 010 |
 | Part numbers of those brands | 41 393 670 |
 | Brands left out of the sample | 8 369 |
 
@@ -52,7 +56,7 @@ one letter in it, and not a placeholder word such as "part". Of those, the 100 u
 taken. One load gives many part numbers the same update time; among those, the
 pick follows a fixed hash of the number, so the 100 spread over the whole load. The sample is
 the same every time it is produced from the same data. A brand with fewer named part numbers
-has no file, but `brands.csv` still lists it with its count.
+has no file, but `brands.tsv` still lists it with its count.
 
 ## Join the brand files
 
@@ -76,19 +80,20 @@ mysql --local-infile=1 --default-character-set=utf8mb4 -u <user> -p
 CREATE DATABASE fapi_parts CHARACTER SET utf8mb4;
 USE fapi_parts;
 SOURCE scheme.sql;
-LOAD DATA LOCAL INFILE 'all-brands.tsv' INTO TABLE product_list CHARACTER SET utf8mb4 FIELDS TERMINATED BY '\t' ESCAPED BY '' LINES TERMINATED BY '\r\n' (mfd, ns, n, d, tp, upd);
+LOAD DATA LOCAL INFILE 'all-brands.tsv' INTO TABLE product_list CHARACTER SET utf8mb4 FIELDS TERMINATED BY '\t' OPTIONALLY ENCLOSED BY '"' ESCAPED BY '' LINES TERMINATED BY '\r\n' (mfd, ns, n, d, tp, upd);
 ```
 
 One brand, straight from its file — `IGNORE 1 LINES` skips the header row:
 
 ```
-LOAD DATA LOCAL INFILE 'brands/B/BOSCH.tsv' INTO TABLE product_list CHARACTER SET utf8mb4 FIELDS TERMINATED BY '\t' ESCAPED BY '' LINES TERMINATED BY '\r\n' IGNORE 1 LINES (mfd, ns, n, d, tp, upd);
+LOAD DATA LOCAL INFILE 'brands/B/BOSCH.tsv' INTO TABLE product_list CHARACTER SET utf8mb4 FIELDS TERMINATED BY '\t' OPTIONALLY ENCLOSED BY '"' ESCAPED BY '' LINES TERMINATED BY '\r\n' IGNORE 1 LINES (mfd, ns, n, d, tp, upd);
 ```
 
 - The server has to allow local files as well. MySQL 8.4 ships with that switched off, and the
   load is refused until an administrator runs `SET GLOBAL local_infile = 1;`. MariaDB allows it
   out of the box.
-- `ESCAPED BY ''` makes a backslash inside a value plain data.
+- `OPTIONALLY ENCLOSED BY '"'` reads a quoted value and turns each `""` inside it back into
+  `"`; `ESCAPED BY ''` makes a backslash inside a value plain data.
 - `--default-character-set=utf8mb4` keeps the client on UTF-8 whatever the locale of the
   machine. A client that finds no UTF-8 locale falls back to latin1: the Russian names then
   print as `?`, and a query with a Russian word finds nothing. The load itself is safe either
@@ -106,19 +111,18 @@ psql -U <user> -d postgres
 CREATE DATABASE fapi_parts;
 \c fapi_parts
 \i scheme.sql
-\copy product_list (mfd, ns, n, d, tp, upd) FROM 'all-brands.tsv' WITH (FORMAT csv, DELIMITER E'\t', QUOTE E'\x01', ENCODING 'UTF8')
+\copy product_list (mfd, ns, n, d, tp, upd) FROM 'all-brands.tsv' WITH (FORMAT csv, DELIMITER E'\t', ENCODING 'UTF8')
 ```
 
 One brand, straight from its file — `HEADER true` skips the header row:
 
 ```
-\copy product_list (mfd, ns, n, d, tp, upd) FROM 'brands/B/BOSCH.tsv' WITH (FORMAT csv, DELIMITER E'\t', QUOTE E'\x01', HEADER true, ENCODING 'UTF8')
+\copy product_list (mfd, ns, n, d, tp, upd) FROM 'brands/B/BOSCH.tsv' WITH (FORMAT csv, DELIMITER E'\t', HEADER true, ENCODING 'UTF8')
 ```
 
 - Each `\copy` is one line.
-- The files have no quoting, so the commands name a quote character that never occurs in them:
-  a `"` or a backslash inside a value stays what it is. The default text format would read a
-  backslash as an escape.
+- `FORMAT csv` reads a quoted value and turns each `""` inside it back into `"`, and takes a
+  backslash as plain data. The default text format would read a backslash as an escape.
 
 ## Example queries
 

@@ -19,83 +19,83 @@ BRISK	aline8	A-LINE 8	Свеча зажигания	1	1772882886656
 BRISK	aline9	A-LINE 9	Свеча зажигания a-line 9/lr17ycy-n	1	1772882886656
 BRISK	ar10s	AR10S	Свеча зажигания	1	1771938877692
 BRISK	d17yc	D17YC	Свеча зажигания TOYOTA CARINA/COROLLA 1.6 87-97/RENAULT CLIO 1.2 91-98	1	1770450677004
-BRISK	dor12ir	DOR12IR	Свеча зажигания "Racing"	1	1770613083209
+BRISK	dor12ir	DOR12IR	"Свеча зажигания ""Racing"""	1	1770613083209
 BRISK	dor17yte3	DOR17YTE-3	Свеча зажигания	-1	1771562896169
-BRISK	dr14tc1	DR14TC-1	Свеча зажигания "Extra"	1	1772731429327
-BRISK	dr14tc1a	DR14TC-1-A	Свеча зажигания "Extra"	-1	1772731429327
-BRISK	dr14yc1	DR14YC-1	Свеча зажигания "SUPER R"	1	1772445031131
-BRISK	dr14ypp1	DR14YPP-1	Свеча зажигания "PLATIN PP"	-1	1772731429327
-BRISK	dr15lc1	DR15LC-1	Свеча зажигания "Extra"	1	1771388633772
-BRISK	dr15lc1a	DR15LC-1-A	Свеча зажигания "Extra"	-1	1771057710284
-BRISK	dr15ldc1	DR15LDC-1	Свеча зажигания "Extra"	1	1771479411141
+BRISK	dr14tc1	DR14TC-1	"Свеча зажигания ""Extra"""	1	1772731429327
+BRISK	dr14tc1a	DR14TC-1-A	"Свеча зажигания ""Extra"""	-1	1772731429327
+BRISK	dr14yc1	DR14YC-1	"Свеча зажигания ""SUPER R"""	1	1772445031131
+BRISK	dr14ypp1	DR14YPP-1	"Свеча зажигания ""PLATIN PP"""	-1	1772731429327
+BRISK	dr15lc1	DR15LC-1	"Свеча зажигания ""Extra"""	1	1771388633772
+BRISK	dr15lc1a	DR15LC-1-A	"Свеча зажигания ""Extra"""	-1	1771057710284
+BRISK	dr15ldc1	DR15LDC-1	"Свеча зажигания ""Extra"""	1	1771479411141
 BRISK	dr15ldc1n	DR15LDC-1-N	Свеча зажигания	-1	1785190131000
-BRISK	dr15yc	DR 15YC #	Свеча зажигания "SUPER R"	1	1770715713579
-BRISK	dr15yc9a	DR15YC-9-A	Свеча зажигания "SUPER R"	-1	1770977614096
-BRISK	dr15ycy	DR15YCY	Свеча зажигания "A-line"	1	1770972663565
-BRISK	dr15ycyj	DR15YCY-J	Свечи зажигания, комплект "A-line"	-1	1772122414739
+BRISK	dr15yc	DR 15YC #	"Свеча зажигания ""SUPER R"""	1	1770715713579
+BRISK	dr15yc9a	DR15YC-9-A	"Свеча зажигания ""SUPER R"""	-1	1770977614096
+BRISK	dr15ycy	DR15YCY	"Свеча зажигания ""A-line"""	1	1770972663565
+BRISK	dr15ycyj	DR15YCY-J	"Свечи зажигания, комплект ""A-line"""	-1	1772122414739
 BRISK	dr15yp1	DR15YP-1	Свеча зажигания f20b, h22a	1	1770951137993
 BRISK	dr17lc1	DR17LC-1	Свеча зажигания	1	1770806837551
 BRISK	dr17ldc	DR17LDC	Свеча зажигания extra (интервал замены - max. 45 000 km), brisk	1	1772882886656
-BRISK	dr17ldc1	DR17LDC-1	Свеча зажигания "Extra"	1	1772019379241
-BRISK	dr17ldc1a	DR17LDC-1-A	Свеча зажигания "Extra"	-1	1772019379241
-BRISK	dr17ldca	DR17LDC-A	Свеча зажигания "Extra"	-1	1772882886656
-BRISK	dr17yc	DR17YC	Свеча зажигания "SUPER R"	1	1770715713579
-BRISK	dr17yc1	DR17YC-1	Свеча зажигания "SUPER R"	1	1770806837551
+BRISK	dr17ldc1	DR17LDC-1	"Свеча зажигания ""Extra"""	1	1772019379241
+BRISK	dr17ldc1a	DR17LDC-1-A	"Свеча зажигания ""Extra"""	-1	1772019379241
+BRISK	dr17ldca	DR17LDC-A	"Свеча зажигания ""Extra"""	-1	1772882886656
+BRISK	dr17yc	DR17YC	"Свеча зажигания ""SUPER R"""	1	1770715713579
+BRISK	dr17yc1	DR17YC-1	"Свеча зажигания ""SUPER R"""	1	1770806837551
 BRISK	dr17yc9	DR17YC-9	Свеча зажигания	1	1771574074874
 BRISK	dr17yca	DR17YC-A	Свеча зажигания	-1	1772721242343
-BRISK	dr17ycj	DR17YC-J	Свечи зажигания, комплект "SUPER R"	-1	1772721242343
-BRISK	dr17ycy	DR17YCY	Свеча зажигания "A-line"	1	1771400050154
-BRISK	dx15ltc1a	DX15LTC-1-A	Свеча зажигания "Extra"	-1	1771153719361
+BRISK	dr17ycj	DR17YC-J	"Свечи зажигания, комплект ""SUPER R"""	-1	1772721242343
+BRISK	dr17ycy	DR17YCY	"Свеча зажигания ""A-line"""	1	1771400050154
+BRISK	dx15ltc1a	DX15LTC-1-A	"Свеча зажигания ""Extra"""	-1	1771153719361
 BRISK	eex14yp	EEX14YP	Свеча зажигания audi a1/a3/a4/a5/a6 1.8-2.0 13-/q3/q5/q7 2.0 13-/vw golf/jetta/passat/tiguan 1.8-2.0	1	1771224925999
 BRISK	er15yc1n	ER15YC-1-N	Свеча зажигания	-1	1785190131000
 BRISK	er17yp1n	ER17YP-1-N	Свеча зажигания	-1	1772525593668
-BRISK	fr14yca	FR14YC-A	Свеча зажигания "SUPER R"	-1	1785187080000
-BRISK	gr15yc	GR 15YC	Свеча зажигания "SUPER R"	1	1772731429327
-BRISK	gr15yca	GR15YC-A	Свеча зажигания "SUPER R"	-1	1772731429327
-BRISK	gr17ypy1	GR17YPY-1	Свеча зажигания "A-line"	1	1772112330314
+BRISK	fr14yca	FR14YC-A	"Свеча зажигания ""SUPER R"""	-1	1785187080000
+BRISK	gr15yc	GR 15YC	"Свеча зажигания ""SUPER R"""	1	1772731429327
+BRISK	gr15yca	GR15YC-A	"Свеча зажигания ""SUPER R"""	-1	1772731429327
+BRISK	gr17ypy1	GR17YPY-1	"Свеча зажигания ""A-line"""	1	1772112330314
 BRISK	l11sl	L11SL	Свеча зажигания 11	-1	1785187080000
 BRISK	l14c	L 14 C	Свеча зажигания	1	1771248117579
 BRISK	l14ca	L14C-A	Свеча зажигания	-1	1771248117579
-BRISK	l15ycy	L15YCY	Свеча зажигания "A-line"	-1	1771349408099
-BRISK	l17ycy	L17YCY	Свеча зажигания "A-line"	-1	1772882886656
+BRISK	l15ycy	L15YCY	"Свеча зажигания ""A-line"""	-1	1771349408099
+BRISK	l17ycy	L17YCY	"Свеча зажигания ""A-line"""	-1	1772882886656
 BRISK	lr12yc	LR 12YC #	Свеча зажигания	1	1771248117579
-BRISK	lr12yca	LR12YC-A	Свеча зажигания "SUPER R"	-1	1771248117579
+BRISK	lr12yca	LR12YC-A	"Свеча зажигания ""SUPER R"""	-1	1771248117579
 BRISK	lr14tc	LR14TC	Свеча зажигания	1	1771248117579
-BRISK	lr14tca	LR14TC-A	Свеча зажигания "Extra"	-1	1771248117579
-BRISK	lr14yc	LR 14YC #	Свеча зажигания "SUPER R"	1	1771374036154
-BRISK	lr14yca	LR14YC-A	Свеча зажигания "SUPER R"	-1	1771374036154
-BRISK	lr15tc1a	LR15TC-1-A	Свеча зажигания "Extra"	-1	1772448655778
-BRISK	lr15tc1j	LR15TC-1-J	Свечи зажигания, комплект "Extra"	-1	1772448655778
-BRISK	lr15yca	LR15YC-A	Свеча зажигания "SUPER R"	-1	1772882886656
-BRISK	lr15ycj	LR15YC-J	Свечи зажигания, комплект "SUPER R"	-1	1772882886656
-BRISK	lr15ycy	LR15YCY	Свеча зажигания "A-line"	1	1771349408099
-BRISK	lr15ycy1	LR15YCY-1	Свеча зажигания "A-line"	1	1771349408099
-BRISK	lr15ypp	LR15YPP	Свеча зажигания "PLATIN PP"	-1	1771349408099
-BRISK	lr17tc	LR17TC	Свеча зажигания "Extra"	1	1771349408099
-BRISK	lr17tca	LR17TC-A	Свеча зажигания "Extra"	-1	1771349408099
-BRISK	lr17tcj	LR17TC-J	Свечи зажигания, комплект "Extra"	-1	1771349408099
-BRISK	lr17yc	LR17YC	Свеча зажигания "SUPER R"	1	1772882886656
-BRISK	lr17yc1	LR17YC-1	Свеча зажигания "SUPER R"	1	1772273275087
-BRISK	lr17yc1a	LR17YC-1-A	Свеча зажигания "SUPER R"	-1	1772273275087
-BRISK	lr17yc1j	LR17YC-1-J	Свечи зажигания, комплект "SUPER R"	-1	1772273275087
-BRISK	lr17yca	LR17YC-A	Свеча зажигания "SUPER R"	-1	1772882886656
-BRISK	lr17ycj	LR17YC-J	Свечи зажигания, комплект "SUPER R"	-1	1772882886656
-BRISK	lr17ycy	LR17YCY	Свеча зажигания "A-line"	1	1772882886656
-BRISK	lr17ycy1	LR17YCY-1	Свеча зажигания "A-line"	1	1772273275087
-BRISK	lr17ycyn	LR17YCY-N	Свеча зажигания "A-line"	-1	1772882886656
-BRISK	lr17ypp1	LR17YPP-1	Свеча зажигания "PLATIN PP"	-1	1772016692896
+BRISK	lr14tca	LR14TC-A	"Свеча зажигания ""Extra"""	-1	1771248117579
+BRISK	lr14yc	LR 14YC #	"Свеча зажигания ""SUPER R"""	1	1771374036154
+BRISK	lr14yca	LR14YC-A	"Свеча зажигания ""SUPER R"""	-1	1771374036154
+BRISK	lr15tc1a	LR15TC-1-A	"Свеча зажигания ""Extra"""	-1	1772448655778
+BRISK	lr15tc1j	LR15TC-1-J	"Свечи зажигания, комплект ""Extra"""	-1	1772448655778
+BRISK	lr15yca	LR15YC-A	"Свеча зажигания ""SUPER R"""	-1	1772882886656
+BRISK	lr15ycj	LR15YC-J	"Свечи зажигания, комплект ""SUPER R"""	-1	1772882886656
+BRISK	lr15ycy	LR15YCY	"Свеча зажигания ""A-line"""	1	1771349408099
+BRISK	lr15ycy1	LR15YCY-1	"Свеча зажигания ""A-line"""	1	1771349408099
+BRISK	lr15ypp	LR15YPP	"Свеча зажигания ""PLATIN PP"""	-1	1771349408099
+BRISK	lr17tc	LR17TC	"Свеча зажигания ""Extra"""	1	1771349408099
+BRISK	lr17tca	LR17TC-A	"Свеча зажигания ""Extra"""	-1	1771349408099
+BRISK	lr17tcj	LR17TC-J	"Свечи зажигания, комплект ""Extra"""	-1	1771349408099
+BRISK	lr17yc	LR17YC	"Свеча зажигания ""SUPER R"""	1	1772882886656
+BRISK	lr17yc1	LR17YC-1	"Свеча зажигания ""SUPER R"""	1	1772273275087
+BRISK	lr17yc1a	LR17YC-1-A	"Свеча зажигания ""SUPER R"""	-1	1772273275087
+BRISK	lr17yc1j	LR17YC-1-J	"Свечи зажигания, комплект ""SUPER R"""	-1	1772273275087
+BRISK	lr17yca	LR17YC-A	"Свеча зажигания ""SUPER R"""	-1	1772882886656
+BRISK	lr17ycj	LR17YC-J	"Свечи зажигания, комплект ""SUPER R"""	-1	1772882886656
+BRISK	lr17ycy	LR17YCY	"Свеча зажигания ""A-line"""	1	1772882886656
+BRISK	lr17ycy1	LR17YCY-1	"Свеча зажигания ""A-line"""	1	1772273275087
+BRISK	lr17ycyn	LR17YCY-N	"Свеча зажигания ""A-line"""	-1	1772882886656
+BRISK	lr17ypp1	LR17YPP-1	"Свеча зажигания ""PLATIN PP"""	-1	1772016692896
 BRISK	mr14lc	MR14LC	Свеча зажигания	1	1770787678979
 BRISK	p1	P1	Свеча зажигания	1	1770714098493
-BRISK	p10	P10	Свеча зажигания "Premium +"	1	1772247298933
-BRISK	p10n	P10-N	Свеча зажигания "Premium +"	-1	1772247298933
-BRISK	p1n	P1-N	Свеча зажигания "Premium +"	-1	1772117206089
-BRISK	p2	P2	Свеча зажигания "Premium +"	1	1770951137993
+BRISK	p10	P10	"Свеча зажигания ""Premium +"""	1	1772247298933
+BRISK	p10n	P10-N	"Свеча зажигания ""Premium +"""	-1	1772247298933
+BRISK	p1n	P1-N	"Свеча зажигания ""Premium +"""	-1	1772117206089
+BRISK	p2	P2	"Свеча зажигания ""Premium +"""	1	1770951137993
 BRISK	p28	P28	Свеча зажигания iridium premium +	1	1770951137993
-BRISK	p4n	P4-N	Свеча зажигания "Premium +"	-1	1772176214581
-BRISK	p5n	P5-N	Свеча зажигания "Premium +"	-1	1771563255526
-BRISK	p8	P8	Свеча зажигания "Premium +"	1	1772719905901
-BRISK	p8n	P8-N	Свеча зажигания "Premium +"	-1	1772719905901
-BRISK	p9	P9	Свеча зажигания "Premium +"	1	1771572772927
-BRISK	p9n	P9-N	Свеча зажигания "Premium +"	-1	1771572772927
-BRISK	rr15yc1n	RR15YC-1-N	Свеча зажигания "ZETEC"	-1	1771562896169
-BRISK	rr15ypy1	RR15YPY-1	Свеча зажигания "A-line"	-1	1771562896169
+BRISK	p4n	P4-N	"Свеча зажигания ""Premium +"""	-1	1772176214581
+BRISK	p5n	P5-N	"Свеча зажигания ""Premium +"""	-1	1771563255526
+BRISK	p8	P8	"Свеча зажигания ""Premium +"""	1	1772719905901
+BRISK	p8n	P8-N	"Свеча зажигания ""Premium +"""	-1	1772719905901
+BRISK	p9	P9	"Свеча зажигания ""Premium +"""	1	1771572772927
+BRISK	p9n	P9-N	"Свеча зажигания ""Premium +"""	-1	1771572772927
+BRISK	rr15yc1n	RR15YC-1-N	"Свеча зажигания ""ZETEC"""	-1	1771562896169
+BRISK	rr15ypy1	RR15YPY-1	"Свеча зажигания ""A-line"""	-1	1771562896169

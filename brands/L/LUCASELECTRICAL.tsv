@@ -12,9 +12,9 @@ LUCAS ELECTRICAL	dmb1010	DMB1010	Катушка зажигания	1	17727206262
 LUCAS ELECTRICAL	dmb856	DMB856	Катушка зажигания	1	1772177474135
 LUCAS ELECTRICAL	dmb928	DMB 928	Катушка зажигания	1	1771050603541
 LUCAS ELECTRICAL	ldfb0021	LDFB0021	Форсунка	-1	1785192971000
-LUCAS ELECTRICAL	leb5058	LEB5058	Лямбда-зонд "Lucas"	-1	1785187080000
+LUCAS ELECTRICAL	leb5058	LEB5058	"Лямбда-зонд ""Lucas"""	-1	1785187080000
 LUCAS ELECTRICAL	leb5123	LEB5123	Зонд лямбда chrysler voyager 04-10, pt cruiser 04-,300c 04-10, pacifica 04-08, dodge ram 1500 09-11	-1	1785187080000
-LUCAS ELECTRICAL	leb5251	LEB5251	Лямбда-зонд "Lucas"	-1	1785187080000
+LUCAS ELECTRICAL	leb5251	LEB5251	"Лямбда-зонд ""Lucas"""	-1	1785187080000
 LUCAS ELECTRICAL	lp077	LP077	Свеча накаливания	1	1771069598933
 LUCAS ELECTRICAL	lp086	LP086	Свеча накаливания	1	1770962675204
 LUCAS ELECTRICAL	lra00743	LRA00743	Генератор, 12В 65А	1	1771948653658
@@ -87,13 +87,13 @@ LUCAS ELECTRICAL	luc4560	LUC4560	Комплект проводов зажига�
 LUCAS ELECTRICAL	luc4649	LUC4649	Комплект проводов зажигания	-1	1785187080000
 LUCAS ELECTRICAL	luc4673	LUC4673	Комплект проводов зажигания	-1	1785187080000
 LUCAS ELECTRICAL	luc5007	LUC5007	Комплект проводов зажигания	-1	1785187080000
-LUCAS ELECTRICAL	luc5209	LUC5209	Комплект проводов зажигания "Lucas"	-1	1785187080000
-LUCAS ELECTRICAL	luc5255	LUC5255	Комплект проводов зажигания "Lucas"	-1	1785187080000
-LUCAS ELECTRICAL	luc5295	LUC5295	Комплект проводов зажигания "Lucas"	-1	1785187080000
-LUCAS ELECTRICAL	luc7114	LUC7114	Комплект проводов зажигания "Lucas"	-1	1785187080000
-LUCAS ELECTRICAL	luc7127	LUC7127	Комплект проводов зажигания "Lucas"	-1	1785187080000
-LUCAS ELECTRICAL	luc7201	LUC7201	Комплект проводов зажигания "Lucas"	-1	1785187080000
-LUCAS ELECTRICAL	luc7432	LUC7432	Комплект проводов зажигания "Lucas"	-1	1785187080000
+LUCAS ELECTRICAL	luc5209	LUC5209	"Комплект проводов зажигания ""Lucas"""	-1	1785187080000
+LUCAS ELECTRICAL	luc5255	LUC5255	"Комплект проводов зажигания ""Lucas"""	-1	1785187080000
+LUCAS ELECTRICAL	luc5295	LUC5295	"Комплект проводов зажигания ""Lucas"""	-1	1785187080000
+LUCAS ELECTRICAL	luc7114	LUC7114	"Комплект проводов зажигания ""Lucas"""	-1	1785187080000
+LUCAS ELECTRICAL	luc7127	LUC7127	"Комплект проводов зажигания ""Lucas"""	-1	1785187080000
+LUCAS ELECTRICAL	luc7201	LUC7201	"Комплект проводов зажигания ""Lucas"""	-1	1785187080000
+LUCAS ELECTRICAL	luc7432	LUC7432	"Комплект проводов зажигания ""Lucas"""	-1	1785187080000
 LUCAS ELECTRICAL	seb1858	SEB1858	Датчик положения вала	1	1771081164023
 LUCAS ELECTRICAL	seb7789	SEB7789	Клапан регулировки фаз газораспределения	-1	1785190131000
 LUCAS ELECTRICAL	snb1158	SNB1158	Датчик температуры ож	1	1772527666470

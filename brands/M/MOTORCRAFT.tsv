@@ -1,10 +1,10 @@
 ﻿mfd	ns	n	d	tp	upd
-MOTORCRAFT	15cf52	15CF52	Масло моторное синтетическое "ENGINE OIL 5W-30", 208л	-1	1769425907254
-MOTORCRAFT	15cf53	15CF53	Масло моторное синтетическое "ENGINE OIL 5W-30", 1л	-1	1769425907254
-MOTORCRAFT	15cf54	15CF54	Масло моторное синтетическое "ENGINE OIL 5W-30", 5л	-1	1769425907254
-MOTORCRAFT	15f1cd	15F1CD	Масло моторное синтетическое "ENGINE OIL 5W-30", 1л	-1	1785190131000
-MOTORCRAFT	15f1ce	15F1CE	Масло моторное синтетическое "ENGINE OIL 5W-30", 1л	-1	1769425907254
-MOTORCRAFT	15f1cf	15F1CF	Масло моторное синтетическое "ENGINE OIL 5W-30", 5л	-1	1769425907254
+MOTORCRAFT	15cf52	15CF52	"Масло моторное синтетическое ""ENGINE OIL 5W-30"", 208л"	-1	1769425907254
+MOTORCRAFT	15cf53	15CF53	"Масло моторное синтетическое ""ENGINE OIL 5W-30"", 1л"	-1	1769425907254
+MOTORCRAFT	15cf54	15CF54	"Масло моторное синтетическое ""ENGINE OIL 5W-30"", 5л"	-1	1769425907254
+MOTORCRAFT	15f1cd	15F1CD	"Масло моторное синтетическое ""ENGINE OIL 5W-30"", 1л"	-1	1785190131000
+MOTORCRAFT	15f1ce	15F1CE	"Масло моторное синтетическое ""ENGINE OIL 5W-30"", 1л"	-1	1769425907254
+MOTORCRAFT	15f1cf	15F1CF	"Масло моторное синтетическое ""ENGINE OIL 5W-30"", 5л"	-1	1769425907254
 MOTORCRAFT	agps22c1	AGPS22C1	Свеча зажигания	1	1770371859416
 MOTORCRAFT	agps32c1	AGPS 32 C 1	Свеча зажигания v6 1120829	1	1770371859416
 MOTORCRAFT	agsf32c	AGSF 32 C	Свеча зажигания	1	1768915796979
@@ -17,7 +17,7 @@ MOTORCRAFT	agsp32fsm	AGSP32FSM	Свеча зажигания	1	1770801564595
 MOTORCRAFT	ash949	ASH-949	Амортизаторная стойка передняя	-1	1785192971000
 MOTORCRAFT	ast66	AST 66	Амортизаторная стойка передняя, левая	-1	1771244636209
 MOTORCRAFT	ayfs22c	AYFS 22 C	Свеча зажигания	1	1771562896169
-MOTORCRAFT	ayfs22fm	AYFS-22F-M	Свеча зажигания "Platinum"	1	1771563255526
+MOTORCRAFT	ayfs22fm	AYFS-22F-M	"Свеча зажигания ""Platinum"""	1	1771563255526
 MOTORCRAFT	ayfs32yr	AYFS 32Y-R	Свеча зажигания eac	1	1772210149060
 MOTORCRAFT	azfs22c	AZFS22C	Свеча зажигания	1	1771562896169
 MOTORCRAFT	azfs22fe	AZFS 22F-E	Свеча зажигания	1	1770370754542
@@ -95,7 +95,7 @@ MOTORCRAFT	ts234	TS-234	Пыльник ШРУСа	-1	1768314581645
 MOTORCRAFT	wg308	WG-308	Моторчик	-1	1769595634888
 MOTORCRAFT	wr6122	WR-6122	Провод высоковольтный	-1	1772337708044
 MOTORCRAFT	ww1109	WW-1109	Щётка стеклоочистителя	-1	1769580318204
-MOTORCRAFT	xt5qmc	XT-5-QMC	Масло трансмиссионное "Mercon V Automatic", 1л	-1	1769693527203
-MOTORCRAFT	xt7qcft	X T7QCFT	Масло трансмиссионное синтетическое "Continuously Variable Chain Type", 1л	-1	1770900253627
+MOTORCRAFT	xt5qmc	XT-5-QMC	"Масло трансмиссионное ""Mercon V Automatic"", 1л"	-1	1769693527203
+MOTORCRAFT	xt7qcft	X T7QCFT	"Масло трансмиссионное синтетическое ""Continuously Variable Chain Type"", 1л"	-1	1770900253627
 MOTORCRAFT	yg343	YG-343	Кондиционер	1	1769326809115
 MOTORCRAFT	ys358	YS-358	Drive belt idler pulley	1	1768826953383
