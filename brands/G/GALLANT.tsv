@@ -1,0 +1,101 @@
+﻿mfd	ns	n	d	tp	upd
+GALLANT	baf11	BA.F.1.1	Фильтр грубой очистки	-1	1772634210150
+GALLANT	glbb21	GL.BB.2.1	Тяга стабилизатора передняя Lada Vesta	-1	1772535149217
+GALLANT	glbb55	GL.BB.5.5	Рычаг подвески правый gl. bb.5.5 8450006732 lada vesta	-1	1785192971000
+GALLANT	glbb56	GL.BB.5.6	Рычаг подвески левый gl. bb.5.6 8450006733 lada vesta	-1	1771667009357
+GALLANT	glbc15	GL.BC.1.5	Цилиндр тормозной главный	-1	1785192971000
+GALLANT	glbc16	GL.BC.1.6	Цилиндр тормозной главный duster 11> 2,0 4х4	-1	1772270504406
+GALLANT	glbc22	GL.BC.2.2	Цилиндр тормозной задний ваз 2105	-1	1771414675244
+GALLANT	glbc23	GL.BC.2.3	Цилиндр тормозной задний 7701044681 gl. bc.2.3 с abs logan, sandero 2 крепления	-1	1771477746369
+GALLANT	glbc25	GL.BC.2.5	Цилиндр тормозной задний l renault duster 10-> 4x4	-1	1772270122261
+GALLANT	glbe11	GL.BE.1.1	Подшипник задней ступицы ваз 2108	-1	1771394858290
+GALLANT	glbe112	GL.BE.1.12	Подшипник задней ступицы lada largus 12-, renault logan, renault duster 4*2	-1	1771493832819
+GALLANT	glbe116	GL.BE.1.16	Подшипник передней ступицы 21214 GL. BE.1.16 Lada Urban	-1	1772092975355
+GALLANT	glbe12	GL.BE.1.2	Подшипник ступицы колеса	-1	1771394858290
+GALLANT	glbe23	GL.BE.2.3	Подшипник выжимной сцепления	-1	1771405504140
+GALLANT	glbp11	GL.BP.1.1	Колодки передние ваз 2108	-1	1772689826697
+GALLANT	glbp116	GL.BP.1.16	Колодка тормозная передняя 3302-3501090 gl. bp.1.16	-1	1772637522934
+GALLANT	glbp14	GL.BP.1.4	Колодка тормозная передняя renault duster 2.0, kaptur 4x4	-1	1772106355601
+GALLANT	glbp15	GL.BP.1.5	Колодка тормозная передняя lada largus, renault logan, 8кл, с пластинами	-1	1771487535414
+GALLANT	glbs19	GL.BS.1.9	Колодка тормозная задняя 1118-3502090 abs gl. bs.1.9	-1	1771930898366
+GALLANT	glcc22	GL.CC.2.2	Крышка маслозаливной горловины	-1	1772291663969
+GALLANT	glce22	GL.CE.2.2	Вал промежуточный	-1	1772636437213
+GALLANT	glcl112	GL.CL.1.12	Сцепление в сборе [корзина+диск+выжимной] 21230-1601000-00 GL. CL.1.12 Chevrolet Niva	-1	1772636886659
+GALLANT	glcl13	GL.CL.1.3	Сцепление в сборе (корзина+диск+выжимной) 302052223r largus 8кл 1.6 gl. cl.1.3	-1	1771906529772
+GALLANT	glcp25	GL.CP.2.5	Трос сцепления gl. cp.2.5 2170-1602210-00 ваз 2170 {обычн. кпп}	-1	1785192971000
+GALLANT	glcp27	GL.CP.2.7	Трос сцепления gl. cp.2.7 6001546867 renault logan, sandero, lada largus	-1	1772440502415
+GALLANT	glcp28	GL.CP.2.8	Трос ручного тормоза gl. cp.2.8 1118-3508180 ваз 1118, 2190, {l=1610 мм}	-1	1785192971000
+GALLANT	glcp38	GL.CP.3.8	Трос кпп gl. cp.3.8 8450006410 lada vesta [кпп 21807]	-1	1785192971000
+GALLANT	glcs13	GL.CS.1.3	Вал карданный задний [длинный] 21214-2201012-10 gl. cs.1.3 lada 2121-2123 [аналог белкард]	-1	1785190131000
+GALLANT	glcs16	GL.CS.1.6	Вал карданный задний [длинный] 21211-2201012 gl. cs.1.6 2121-2123 на крестовине [аналог сызрань]	-1	1785190131000
+GALLANT	glcs28	GL.CS.2.8	Вал распределительный	-1	1785190131000
+GALLANT	glcvj123	GL.CVJ.1.23	Шрус внешний GL. CVJ.1.23 2190 АКПП	-1	1772455219626
+GALLANT	glcvj125	GL.CVJ.1.25	Шрус внешний GL. CVJ.1.25 2190 АКПП с АВС	-1	1772455219626
+GALLANT	glcvj21	GL.CVJ.2.1	Вал приводной левый 2108-2215011 gl. cvj.2.1 ba3 2108-2115	-1	1772455174935
+GALLANT	glcvj210	GL.CVJ.2.10	Вал приводной правый 11180-2215010-11 gl. cvj.2.10 lada kalina 1118, granta 2190 с abs	-1	1772455159668
+GALLANT	glcvj215	GL.CVJ.2.15	Вал приводной левый 21902-2215011-10 gl. cvj.2.15 lada granta at 10-	-1	1772455245074
+GALLANT	glcvj216	GL.CVJ.2.16	Вал приводной правый 21902-2215010-10 gl. cvj.2.16 lada granta at 10-	-1	1772455219626
+GALLANT	glcvj217	GL.CVJ.2.17	Вал приводной левый 8200863653 gl. cvj.2.17 lada largus 12-17 [k4	-1	1785192971000
+GALLANT	glcvj218	GL.CVJ.2.18	Вал приводной правый 391004571r gl. cvj.2.18 lada largus 1.6 16v 12-17, logan [k4m/кпп jr5]	-1	1785190131000
+GALLANT	glcvj219	GL.CVJ.2.19	Вал приводной правый 391007857r gl. cvj.2.19 logan ii, sandero ii	-1	1785190131000
+GALLANT	glcvj22	GL.CVJ.2.2	Вал приводной правый 2108-2215010 gl. cvj.2.2 ba3 2108-2115	-1	1772455174935
+GALLANT	glcvj220	GL.CVJ.2.20	Вал приводной левый 391017832r gl. cvj.2.20 logan ii, sandero ii	-1	1785192971000
+GALLANT	glcvj226	GL.CVJ.2.26	Вал приводной левый 8450020058 gl. cvj.2.26 lada largus 17-, xray	-1	1785192971000
+GALLANT	glcvj227	GL.CVJ.2.27	Вал приводной левый 8450020014 gl. cvj.2.27 lada largus 17-, xray	-1	1785192971000
+GALLANT	glcvj229	GL.CVJ.2.29	Вал приводной левый 391017723r gl. cvj.2.29 logan i 1.4-1.6, larg	-1	1785190131000
+GALLANT	glcvj230	GL.CVJ.2.30	Вал приводной правый 8200499306 gl. cvj.2.30 largus 12-, logan 07-, 1.4/1.6 [23 шлица]	-1	1785190131000
+GALLANT	glcvj239	GL.CVJ.2.39	Вал приводной левый 8450030791 gl. cvj.2.39 lada vesta sw 15- 1.8	-1	1785192971000
+GALLANT	glcvj29	GL.CVJ.2.9	Вал приводной правый 11180-2215010-01 gl. cvj.2.9 lada kalina 1118, granta 2190 без abs	-1	1785192971000
+GALLANT	glek2180	GL.EK.2.180	Прокладка поддона lada largus lada largus, renault logan, duster, kangoo ll 84 л	-1	1771590509257
+GALLANT	glek23	GL.EK.2.3	Прокладка коллектора GL. EK.2.3 впускного Lada Largus, Renault Logan 1,6 K4M 16V	-1	1771486518514
+GALLANT	glek25	GL.EK.2.5	Прокладка коллектора 8200365915 gl. ek.2.5 выпускного lada largus, renault logan, duster	-1	1772275993083
+GALLANT	glek47	GL.EK.4.7	Сальник коленвала задний renault logan, lada largus	-1	1771572257083
+GALLANT	glek52	GL.EK.5.2	Колпачки маслосъемные 8 кл. renault logan lada largus	-1	1771508121732
+GALLANT	glek54	GL.EK.5.4	Колпачки маслосъемные	-1	1771504488969
+GALLANT	glep65	GL.EP.6.5	Клапана , комплект впускных и выпускных	-1	1772275321907
+GALLANT	glhr17	GL.HR.1.7	Радиатор отопителя lada largus lada largus, renault logan	-1	1772427176224
+GALLANT	glhr215	GL.HR.2.15	Патрубок радиатора нижний gl. hr.2.15 8200750020 largus, logan k7m 8кл дв. 1,6	-1	1772894468201
+GALLANT	glhr217	GL.HR.2.17	Патрубок радиатора нижний gl. hr.2.17 8450038392 vesta, sw cross 1.6 дв. h4m	-1	1785192971000
+GALLANT	glhr227	GL.HR.2.27	Патрубок радиатора отводящий 11180-1303008-00 gl. hr.2.27 ваз 2108-99, 2113-15, 2110	-1	1785192971000
+GALLANT	glhr228	GL.HR.2.28	Патрубок соединительный термостат-помпа gl. hr.2.28 11180-1303093-00 ваз 2108-15	-1	1785192971000
+GALLANT	glhr241	GL.HR.2.41	Патрубок отопителя подводящий gl. hr.2.41 924000807r lada largus [двс k7m]	-1	1785192971000
+GALLANT	glhr246	GL.HR.2.46	Патрубок радиатора нижний gl. hr.2.46 8450009490 lada largus 8кл	-1	1785192971000
+GALLANT	glhr247	GL.HR.2.47	Патрубок радиатора верхний 8450090075 gl. hr.2.47 lada largus [двс 11189]	-1	1785192971000
+GALLANT	glhr258	GL.HR.2.58	Патрубок радиатора верхний gl. hr.2.58 215014574r logan ii, duster, captur [h4m 1.6 16кл. ]	-1	1785190131000
+GALLANT	glic11	GL.IC.1.1	Катушка зажигания lada largus, renault logan	-1	1772193916491
+GALLANT	glic34	GL.IC.3.4	Высоковольтные провода силикон 2108-3707080-10 gl. ic.3.4	-1	1772716882239
+GALLANT	glla114	GL.LA.1.14	Амортизатор крышки багажника 21910-8231015-00 gl. la.1.14 lada granta лифтбэк 5-ти дверный	-1	1785190131000
+GALLANT	glps12	GL.PS.1.2	Насос гур 7700431286 gl. ps.1.2 lada largus 12-, renault logan 08- 1.4i/1.6i	-1	1772618658438
+GALLANT	glps13	GL.PS.1.3	Насос гур 491108694r gl. ps.1.3 lada largus, logan, duster	-1	1772618658438
+GALLANT	glpw13	GL.PW.1.3	Насос омывателя стекол 8450008573 gl. pw.1.3 lada vesta [1 выход]	-1	1772266492560
+GALLANT	glrk17	GL.RK.1.7	Ремкомплект задних тормозных колодок lada xray, renault logan	-1	1772630199894
+GALLANT	glrk18	GL.RK.1.8	Ремкомплект задних тормозных колодок 8450076672 gl. rk.1.8 lada vesta	-1	1785192971000
+GALLANT	glrk19	GL.RK.1.9	Ремкомплект задних тормозных колодок с планками gl. rk.1.9 8450076672 lada vesta	-1	1785192971000
+GALLANT	glrp135	GL.RP.1.35	Подшипник опоры амортизатора	-1	1771480643324
+GALLANT	glrp21	GL.RP.2.1	Сайлентблок задней балки lada largus, renault logan	-1	1771397911808
+GALLANT	glrp52	GL.RP.5.2	Пыльник ШРУСа наружнего 8450030512 gl. rp.5.2 lada vesta, granta, xray	-1	1785190131000
+GALLANT	glrp54	GL.RP.5.4	Пыльник ШРУСа внутреннего 8450030513 gl. rp.5.4 lada vesta 16	-1	1785190131000
+GALLANT	glrp57	GL.RP.5.7	Пыльник ШРУСа внутреннего левого 392414459r gl. rp.5.7 logan i, sandero	-1	1785190131000
+GALLANT	glrv12	GL.RV.1.2	Регулятор давления топлива 2112-1160010 gl. rv.1.2	-1	1785190131000
+GALLANT	glsa14	GL.SA.1.4	Амортизатор передний газомаслянный lada largus, renault logan	-1	1771577905879
+GALLANT	glsa15	GL.SA.1.5	Амортизатор задний с отбойником renault logan, sandero, lada largus 1,6	-1	1772694368315
+GALLANT	glsa187	GL.SA.1.87	Амортизатор задний lada largus logan, sandero, largus 1,6 газомаслянный /без отбо	-1	1772694368315
+GALLANT	glsa188	GL.SA.1.88	Амортизатор передней 8450009394 15	-1	1772083238663
+GALLANT	glsa193	GL.SA.1.93	Амортизатор передний правый 8450021693 gl. sa.1.93 lada x-ray cross	-1	1785192971000
+GALLANT	glsa194	GL.SA.1.94	Амортизатор передний левый 8450021710 gl. sa.1.94 lada x-ray cross	-1	1785192971000
+GALLANT	glsm14	GL.SM.1.4	Регулятор холостого хода	-1	1772431784140
+GALLANT	glss17	GL.SS.1.7	Датчик скорости	-1	1772528049307
+GALLANT	gltb114	GL.TB.1.14	Ремень поликлиновый 6pk1822 logan, largus гур+конд	-1	1771935496809
+GALLANT	gltb130	GL.TB.1.30	Ремень поликлиновый 6pk 825 ваз 1117-1119, 2190 gl. tb.1.30	-1	1771595876137
+GALLANT	gltb135	GL.TB.1.35	Ремень поликлиновый 5pk1125 gl. tb.1.35 renault duster 2.0 без а/с, 2131 urban	-1	1772007223528
+GALLANT	gltb136	GL.TB.1.36	Ремень поликлиновый 7pk1792 renault duster 2012> 2.0л с конд	-1	1771682334452
+GALLANT	gltn11	GL.TN.1.1	Ролик натяжителя ремня генератора	-1	1772003608790
+GALLANT	gltn112	GL.TN.1.12	Ролик натяжителя ремня ГРМ [натяжитель] в сб 8200933753 gl. tn.1.12 largus, logan, duster с гур/кондиц	-1	1771935633006
+GALLANT	gltn113	GL.TN.1.13	Натяжитель ремня ГРМ в сборе	-1	1772512041522
+GALLANT	gltn115	GL.TN.1.15	Ролик натяжителя ремня ГРМ обводной renault duster	-1	1771682028998
+GALLANT	gltn116	GL.TN.1.16	Ролик натяжителя ремня ГРМ натяжной 21176-1006238 gl. tn.1.16 vesta, xray 1.8	-1	1772693601148
+GALLANT	gltn117	GL.TN.1.17	Ролик натяжителя ремня ГРМ натяжной renault	-1	1772512041522
+GALLANT	gltn119	GL.TN.1.19	Ролик натяжителя приводного ремня 8450006996 gl. tn.1.19 lada vesta, x-ray	-1	1771503718350
+GALLANT	gltn120	GL.TN.1.20	Ролик натяжителя ремня генератора и кондицонера 21100-1041056 gl. tn.1.20 ваз 2110-12,2170	-1	1772543981728
+GALLANT	glts22	GL.TS.2.2	Переключатель подрулевой с птф lada largus, renault logan, renault duster с птф	-1	1771923971348
+GALLANT	glwp16	GL.WP.1.6	Насос водяной	-1	1771393523107

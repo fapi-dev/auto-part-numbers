@@ -1,0 +1,101 @@
+﻿mfd	ns	n	d	tp	upd
+WAIGLOBAL	11056r	not_set	Генератор	-1	0
+WAIGLOBAL	11101r	not_set	Генератор	-1	0
+WAIGLOBAL	11183n	not_set	Генератор	-1	0
+WAIGLOBAL	13336n	not_set	Генератор	-1	0
+WAIGLOBAL	13473n	not_set	Генератор	-1	0
+WAIGLOBAL	13497n	not_set	Генератор	-1	0
+WAIGLOBAL	13919n	not_set	Генератор	-1	0
+WAIGLOBAL	13926n	not_set	Генератор	-1	0
+WAIGLOBAL	13927n	not_set	Генератор	-1	0
+WAIGLOBAL	13972r	not_set	Генератор	-1	0
+WAIGLOBAL	14064r	not_set	Генератор	-1	0
+WAIGLOBAL	14295r	not_set	Генератор	-1	0
+WAIGLOBAL	16109r	not_set	Стартер	-1	0
+WAIGLOBAL	16766r	not_set	Стартер	-1	0
+WAIGLOBAL	16843n	not_set	Стартер	-1	0
+WAIGLOBAL	17273n	not_set	Стартер	-1	0
+WAIGLOBAL	17757n	not_set	Стартер	-1	0
+WAIGLOBAL	17801n	not_set	Стартер	-1	0
+WAIGLOBAL	17842n	not_set	Стартер	-1	0
+WAIGLOBAL	18033n	not_set	Стартер	-1	0
+WAIGLOBAL	18387n	not_set	Стартер	-1	0
+WAIGLOBAL	19026n	not_set	Стартер	-1	0
+WAIGLOBAL	19028n	not_set	Стартер	-1	0
+WAIGLOBAL	20506r	not_set	Генератор	-1	0
+WAIGLOBAL	21361r	not_set	Генератор	-1	0
+WAIGLOBAL	21378r	not_set	Генератор	-1	0
+WAIGLOBAL	21471r	not_set	Генератор	-1	0
+WAIGLOBAL	21811n	not_set	Генератор	-1	0
+WAIGLOBAL	21901n	not_set	Генератор	-1	0
+WAIGLOBAL	22922n	not_set	Генератор	-1	0
+WAIGLOBAL	22997r	not_set	Генератор	-1	0
+WAIGLOBAL	23267r	not_set	Генератор	-1	0
+WAIGLOBAL	23650r	not_set	Генератор	-1	0
+WAIGLOBAL	23925n	not_set	Генератор	-1	0
+WAIGLOBAL	23996r	not_set	Генератор	-1	0
+WAIGLOBAL	2482293	not_set	Механизм свободного хода генератора	-1	0
+WAIGLOBAL	2482301	not_set	Механизм свободного хода генератора	-1	0
+WAIGLOBAL	2491298	not_set	Механизм свободного хода генератора	-1	0
+WAIGLOBAL	30394r	not_set	Стартер	-1	0
+WAIGLOBAL	30776n	not_set	Стартер	-1	0
+WAIGLOBAL	30788r	not_set	Стартер	-1	0
+WAIGLOBAL	729412n	not_set	Генератор	-1	0
+WAIGLOBAL	72949n	not_set	Генератор	-1	0
+WAIGLOBAL	8317n	not_set	Генератор	-1	0
+WAIGLOBAL	cfd505	not_set	Катушка зажигания	-1	0
+WAIGLOBAL	cuf001	not_set	Катушка зажигания	-1	0
+WAIGLOBAL	cuf068	not_set	Катушка зажигания	-1	0
+WAIGLOBAL	cuf143	not_set	Катушка зажигания	-1	0
+WAIGLOBAL	cuf159	not_set	Катушка зажигания	-1	0
+WAIGLOBAL	icm1320	not_set	Коммутатор, система зажигания	-1	0
+WAIGLOBAL	icm501	not_set	Коммутатор, система зажигания	-1	0
+WAIGLOBAL	isl091	not_set	Комплект проводов зажигания	-1	0
+WAIGLOBAL	isl113	not_set	Комплект проводов зажигания	-1	0
+WAIGLOBAL	isl345	not_set	Комплект проводов зажигания	-1	0
+WAIGLOBAL	isl555	not_set	Комплект проводов зажигания	-1	0
+WAIGLOBAL	isl591	not_set	Комплект проводов зажигания	-1	0
+WAIGLOBAL	isl725	not_set	Комплект проводов зажигания	-1	0
+WAIGLOBAL	isl789	not_set	Комплект проводов зажигания	-1	0
+WAIGLOBAL	map2106	not_set	Датчик, давление во впускном газопроводе	-1	0
+WAIGLOBAL	map5	not_set	Датчик, давление во впускном газопроводе	-1	0
+WAIGLOBAL	sa113	not_set	Генератор	-1	0
+WAIGLOBAL	sa130	not_set	Генератор	-1	0
+WAIGLOBAL	sa149	not_set	Генератор	-1	0
+WAIGLOBAL	sa253	not_set	Генератор	-1	0
+WAIGLOBAL	sa260	not_set	Генератор	-1	0
+WAIGLOBAL	sa268	not_set	Генератор	-1	0
+WAIGLOBAL	sa276	not_set	Генератор	-1	0
+WAIGLOBAL	sa288	not_set	Генератор	-1	0
+WAIGLOBAL	sa301	not_set	Генератор	-1	0
+WAIGLOBAL	sa405	not_set	Генератор	-1	0
+WAIGLOBAL	sa509	not_set	Генератор	-1	0
+WAIGLOBAL	sa649	not_set	Генератор	-1	0
+WAIGLOBAL	sa663	not_set	Генератор	-1	0
+WAIGLOBAL	sa695	not_set	Генератор	-1	0
+WAIGLOBAL	sa734	not_set	Генератор	-1	0
+WAIGLOBAL	sa757	not_set	Генератор	-1	0
+WAIGLOBAL	sa885	not_set	Генератор	-1	0
+WAIGLOBAL	sa912	not_set	Генератор	-1	0
+WAIGLOBAL	sa942	not_set	Генератор	-1	0
+WAIGLOBAL	sa987	not_set	Генератор	-1	0
+WAIGLOBAL	sa995	not_set	Генератор	-1	0
+WAIGLOBAL	sb178	not_set	Генератор	-1	0
+WAIGLOBAL	sb224	not_set	Генератор	-1	0
+WAIGLOBAL	sb256	not_set	Генератор	-1	0
+WAIGLOBAL	sb264	not_set	Генератор	-1	0
+WAIGLOBAL	sb338	not_set	Генератор	-1	0
+WAIGLOBAL	sl185	not_set	Комплект проводов зажигания	-1	0
+WAIGLOBAL	sl257	not_set	Комплект проводов зажигания	-1	0
+WAIGLOBAL	sl284	not_set	Комплект проводов зажигания	-1	0
+WAIGLOBAL	sl563	not_set	Комплект проводов зажигания	-1	0
+WAIGLOBAL	sl619	not_set	Комплект проводов зажигания	-1	0
+WAIGLOBAL	sl789	not_set	Комплект проводов зажигания	-1	0
+WAIGLOBAL	sl793	not_set	Комплект проводов зажигания	-1	0
+WAIGLOBAL	ss283	not_set	Стартер	-1	0
+WAIGLOBAL	ss449	not_set	Стартер	-1	0
+WAIGLOBAL	ss524	not_set	Стартер	-1	0
+WAIGLOBAL	ss649	not_set	Стартер	-1	0
+WAIGLOBAL	ss746	not_set	Стартер	-1	0
+WAIGLOBAL	ss853	not_set	Стартер	-1	0
+WAIGLOBAL	ss967	not_set	Стартер	-1	0

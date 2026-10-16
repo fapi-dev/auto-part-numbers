@@ -1,0 +1,101 @@
+﻿mfd	ns	n	d	tp	upd
+FLAMMA	2730123700	2730123700	КАТУШКА ЗАЖИГАНИЯ	-1	1533942871650
+FLAMMA	273012b000	273012B000	КАТУШКА ЗАЖИГАНИЯ SOLARIS, I30, ELANTRA 06- (GAMMA	1	1739653200000
+FLAMMA	2816422610	2816422610	ДАТЧИК РАСХОДА ВОЗДУХА ...	-1	1533109043722
+FLAMMA	2816438210	2816438210	ДАТЧИК РАСХОДА ВОЗДУХА SANTAFE/SONATA/XD 1,6/2,0/2	-1	1533938722390
+FLAMMA	3531037150	3531037150	ФОРСУНКА ТОПЛИВНАЯ S-5 (2,7)	-1	1532932640751
+FLAMMA	96253555	96253555	КАТУШКА ЗАЖИГАНИЯ (ПОД 3 КОНТАКТА) 1,0Л 25182496	-1	1535303457244
+FLAMMA	cfia006	CFIA-006	Инжектор топл. системы в сборе	-1	1755065313340
+FLAMMA	cfia007	CFIA-007	Инжектор топл. системы в сборе	-1	1757853516793
+FLAMMA	cfia008	CFIA-008	Инжектор топл. системы в сборе	-1	1772522533172
+FLAMMA	cfia009	CFIA-009	Инжектор топл. системы в сборе	-1	1721114821269
+FLAMMA	cfia010	CFIA-010	Инжектор топл. системы в сборе	-1	1762612357041
+FLAMMA	cfic002	CFIC-002	Форсунка	-1	1714972483552
+FLAMMA	cfic004	CFIC-004	FLAMMA Форсунка топливная DAEWOO LANOS(T100) 17109450	-1	1701850912529
+FLAMMA	cfic005	CFIC-005	ФОРСУНКА ТОПЛИВНАЯ	-1	1752132727875
+FLAMMA	cydb004	CYDB-004	Распределитель зажигания kia pride kk37018200d	-1	1677598170589
+FLAMMA	cydc004	CYDC-004	Крышка трамблера daewoo nexia/espero	-1	1721221623261
+FLAMMA	cydc005	CYDC-005	Крышка трамблера daewoo matiz (delphi)	-1	1649664269716
+FLAMMA	cydc006	CYDC-006	Датчик холла	-1	1549540163013
+FLAMMA	cydc007	CYDC-007	Бегунок распределителя	-1	1711781880551
+FLAMMA	cydc008	CYDC-008	Бегунок трамблера	-1	1770903422970
+FLAMMA	cydc009	CYDC-009	Распределитель зажигания daewoo nexia	-1	1772804108706
+FLAMMA	cydc010	CYDC010	РАСПРЕДЕЛИТЕЛЬ ЗАЖИГАНИЯ	-1	1536646500238
+FLAMMA	cydc012	CYDC-012	Крышка трамблера	-1	1690554174162
+FLAMMA	cytc002	CYTC-002	Заслонка дроссельная chevrolet lacetti 03> 1.4/1.6	-1	1760790439432
+FLAMMA	igc101f	IGC101F	Катушка зажигания toyota 1mz-fe mcv2#/mcu2#/mcu1#/mcu3#/mcr30/40 00-06	-1	1681714440243
+FLAMMA	igc103f	IGC103F	Катушка зажигания toyota 1sz/1-2nz-fe 99	1	1739653200000
+FLAMMA	igc107f	IGC107F	Катушка зажигания TOYOTA 2UZ-FE 02- LX470/LCR UZJ100	-1	1681714440208
+FLAMMA	igc112f	IGC112F	Катушка зажигания toyota 2grfe 08	1	1739653200000
+FLAMMA	igc113f	IGC113F	Катушка зажигания toyota corolla 07- 1zrfe/lexus nx200 3zrfae	1	1739653200000
+FLAMMA	igc116f	IGC116F	Катушка зажигания toyota 1az/2az-fe 00	-1	1681713116679
+FLAMMA	igc117f	IGC117F	Катушка зажигания toyota 1zz-fe 00- zze12#/zzt24#/zzv50/zct10/zca2#/1kr-fe 04- ksp9#/kgc1#/3sg-g# sx	1	1761726886070
+FLAMMA	igc118f	IGC118F	Катушка зажигания toyota 2az-fe 05-/acu2#/acu3#/1az-fse/1nz-fe 04- ncp9#/ncp100/ncp11#/nze12#/nze15#	1	1742203477998
+FLAMMA	igc205f	IGC205F	Катушка зажигания hr/mr-ser nissan qashqai j10e/x-trail t31/tiida c11/wingroad/ad y12	1	1747661309558
+FLAMMA	igc207f	IGC207F	Катушка зажигания nissan qg13de/qg15de/qg18de/ga15de 96	1	1747661309558
+FLAMMA	igc208f	IGC208F	Катушка зажигания nissan skyline v35 01-07/fx35 s50 02-07 vq30dd/vq35de	1	1758703261780
+FLAMMA	igc209f	IGC209F	Катушка зажигания RR NISSAN CEFIRO A32 VQ20DE/VQ25DE/VQ30DE 94-98	1	1739653200000
+FLAMMA	igc214f	IGC214F	Катушка зажигания nissan j32 qr25/sc11 hr15/hr16/mr18/j10 mr20de/c25 mr20/y12	-1	1771826709927
+FLAMMA	igc304f	IGC304F	Катушка зажигания mazda fp-de/fs-ze 99-/familia bjf#/capella gf#/premacy cp#	1	1739653200000
+FLAMMA	igc305f	IGC305F	Катушка зажигания mazda 3 2.0 lf bk 04-/tribute 2.3 l3-ve 04-/ford focus ii/c-max 1.8/2.0 04	-1	1716978554194
+FLAMMA	igc402f	IGC402F	Катушка зажигания mitsubishi lancer cs2a 1.5 00-/pajero io h65w 1.6 99-01	1	1739653200000
+FLAMMA	igc405f	IGC405F	Катушка зажигания mitsubishi galant ea7a 96-03/lancer 00- cs5a	-1	1721114652839
+FLAMMA	igc407f	IGC407F	Катушка зажигания mitsubishi lancer x 07- 1.8/2.0/asx 10- 1.8/2.0/outlander 06- 2.0/2.4	-1	1681713195600
+FLAMMA	igc601f	IGC601F	Катушка зажигания honda d15b/d17a 00-/stream rn1/rn2 00-/civic eu1/3/4/ferio es1/2/3/4	-1	1705098251124
+FLAMMA	igc604f	IGC604F	Катушка зажигания honda accord cu# r20a 08-/civic fd# r18a 06	1	1739653200000
+FLAMMA	igc608f	IGC608F	Катушка зажигания honda city zx/jazz l15a1 04	1	1771840241255
+FLAMMA	igc610f	IGC610F	Катушка зажигания honda accord cl#/cm# 03-08/cr-v rd#/re# 02-/stream rn# 00- k20a/k24a	-1	1681714278255
+FLAMMA	igc613f	IGC613F	Катушка зажигания honda fit 08- ge# l13	1	1739653200000
+FLAMMA	igc801f	IGC801F	Катушка зажигания MAZDA AZ/SUZUKI ALTO 00-02	1	1739653200000
+FLAMMA	igc802f	IGC802F	Катушка зажигания suzuki grand vitara/escudo 06-aerio/swift iii 04-/sx4 06- m13a/m15a/m16a/m18a	1	1739653200000
+FLAMMA	igc807f	IGC807F	Катушка зажигания suzuki grand vitara g16b 98-05	-1	1758668111774
+FLAMMA	igc901f	IGC901F	Катушка зажигания hyundai accent05-10/kia rio 05-10	1	1739653200000
+FLAMMA	igc904f	IGC904F	Катушка зажигания hyundai sonata 01-/santa fe 00-/kia sorento fy 02	-1	1679468274180
+FLAMMA	lca002	LCA002	Обмотка-зажигание	-1	1630080298856
+FLAMMA	lca003	LCA-003	Обмотка-зажигание	-1	1739864420247
+FLAMMA	lca004	LCA004	Катушка зажигания	-1	1630655853250
+FLAMMA	lca005	LCA005	Обмотка-зажигание	-1	1757846016436
+FLAMMA	lca007	LCA007	Катушка зажигания	-1	1725097849483
+FLAMMA	lca008	LCA-008	Катушка зажигания (2) /2.0-2.4l/	1	1770121138704
+FLAMMA	lca009	LCA-009	Катушка зажигания	-1	1768467643568
+FLAMMA	lca010	LCA-010	Обмотка-зажигание	-1	1665768311390
+FLAMMA	lca011	LCA011	Обмотка-зажигание	-1	1630080298856
+FLAMMA	lca013	LCA-013	Катушка зажигания 1.5-1.6	1	1772269535858
+FLAMMA	lca014	LCA014	Катушка системы зажигания	1	1770982705409
+FLAMMA	lca017	LCA-017	Обмотка-зажигание	-1	1711782369294
+FLAMMA	lca018	LCA018	Обмотка-зажигание	-1	1772717627042
+FLAMMA	lca020	LCA-020	Обмотка-зажигание	1	1771070690278
+FLAMMA	lca022	LCA022	Катушка зажигания hy sonata 2. 5, 2. 7 98	-1	1725868032449
+FLAMMA	lca023	LCA-023	Обмотка-зажигание	1	1758631634757
+FLAMMA	lca026	LCA-026	Катушка системы зажигания	-1	1721222678606
+FLAMMA	lca027	LCA-027	Катушка зажигания	1	1758700083950
+FLAMMA	lca028	LCA-028	Обмотка-зажигание	1	1772102029929
+FLAMMA	lca029	LCA-029	Катушка зажигания	1	1766572252384
+FLAMMA	lca031	LCA-031	Обмотка-зажигание	-1	1770280229140
+FLAMMA	lca032	LCA032	Обмотка-зажигание	-1	1711782472341
+FLAMMA	lca051	LCA-051	COIL ASSY-IGNITION	-1	1732434422502
+FLAMMA	lcb001	LCB-001	Катушка зажигания	1	1763052152094
+FLAMMA	lcb002	LCB002	Обмотка-зажигание	-1	1714031936166
+FLAMMA	lcb003	LCB003	Обмотка-зажигание	-1	1630080298950
+FLAMMA	lcb004	LCB004	Катушка зажигания	-1	1655634061593
+FLAMMA	lcb006	LCB006	Катушка зажигания	1	1759507540692
+FLAMMA	lcb007	LCB007	FLAMMA Катушка зажигания KIA CREDOS 0K24718100A	-1	1661974712821
+FLAMMA	lcb012	LCB012	Обмотка-зажигание	1	1772263401859
+FLAMMA	lcb013	LCB-013	Катушка системы зажигания	1	1770982705409
+FLAMMA	lcc001	LCC-001	Катушка зажигания ka	-1	1771134930558
+FLAMMA	lcc002	LCC-002	Катушка зажигания ne	1	1772801207098
+FLAMMA	lcc003	LCC-003	Катушка зажигания	1	1772260011485
+FLAMMA	lcc004	LCC-004	Катушка зажигания m	-1	1711782382602
+FLAMMA	lcc005	LCC005	Датчик холла ne	-1	1661976810971
+FLAMMA	lcc006	LCC006	Катушка зажигания	-1	1721220192808
+FLAMMA	lcc008	LCC008	Катушка зажигания m (0,8 без трамблёра)	-1	1772272931995
+FLAMMA	lcc009	LCC-009	Катушка зажигания lacetti	1	1771063115984
+FLAMMA	qaa004	QAA004	Датчик расхода воздуха	-1	1661973346024
+FLAMMA	qaa006	QAA006	Датчик массового расхода воздуха	-1	1749125210026
+FLAMMA	qaa007	QAA007	Датчик расхода воздуха	-1	1762867105665
+FLAMMA	qaa010	QAA010	Датчик расхода воздуха	-1	1687930657803
+FLAMMA	qaa011	QAA-011	Датчик расхода воздуха	1	1768912931931
+FLAMMA	qaa013	QAA013	Датчик расхода воздуха	1	1771249510293
+FLAMMA	qac001	QAC001	Датчик расхода воздуха	-1	1690554164755
+FLAMMA	qac002	QAC002	Датчик расхода воздуха	-1	1615504164952
+FLAMMA	qac003	QAC003	Датчик расхода воздуха	-1	1762867105665

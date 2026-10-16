@@ -1,0 +1,101 @@
+﻿mfd	ns	n	d	tp	upd
+TRUCK TEQ	bpdbu004	BPD-BU004	Выключатель	-1	1578857353723
+TRUCK TEQ	bpdbu005	not_set	Замок вала рулевого колеса	-1	0
+TRUCK TEQ	bpdma006	not_set	Газовая пружина, регулировка сиденья	-1	0
+TRUCK TEQ	bpdme001	not_set	Натяжная лента	-1	0
+TRUCK TEQ	fpvo005	not_set	Топливный насос| Насос, топливоподающяя система	-1	0
+TRUCK TEQ	manse003	not_set	Датчик импульсов| Датчик частоты вращения, управление двигателем	-1	0
+TRUCK TEQ	rvise003	not_set	Датчик, давление масла	-1	0
+TRUCK TEQ	scase001	not_set	Выключатель, блокировка диффе	-1	0
+TRUCK TEQ	scaun001	SCA-UN-001	Прокладка, маслянный радиатор	-1	0
+TRUCK TEQ	sima01	not_set	Шланг радиатора	-1	0
+TRUCK TEQ	sima02	not_set	Трубка нагнетаемого воздуха	-1	0
+TRUCK TEQ	sima05	not_set	Трубка нагнетаемого воздуха	-1	0
+TRUCK TEQ	sime01	not_set	Трубка нагнетаемого воздуха	-1	0
+TRUCK TEQ	sime03	not_set	Трубка нагнетаемого воздуха	-1	0
+TRUCK TEQ	sime04	SI-ME04	Трубка нагнетаемого воздуха	1	1739653200000
+TRUCK TEQ	sime05	SI-ME05	Топливный шланг	1	1739653200000
+TRUCK TEQ	sisc04	not_set	Шланг радиатора	-1	0
+TRUCK TEQ	sivo02	not_set	Шланг радиатора	-1	0
+TRUCK TEQ	teq01005	TEQ-01.005	Выключатель, головной свет| Мигающий указатель| Переключатель стеклоочистителя| Выключатель на колонке рулевого управления	1	1739653200000
+TRUCK TEQ	teq01012	TEQ-01.012	Выключатель, головной свет| Мигающий указатель| Переключатель стеклоочистителя| Выключатель на колонке рулевого управления	1	1739653200000
+TRUCK TEQ	teq01016	TEQ-01.016	Выключатель на колонке рулевого управления	1	1739653200000
+TRUCK TEQ	teq01017	not_set	Выключатель фонаря сигнала торможения	-1	0
+TRUCK TEQ	teq02006	TEQ-02.006	Термостат, охлаждающая жидкость	1	1739653200000
+TRUCK TEQ	teq03001	not_set	Опрокидывающий насос, кабина	-1	0
+TRUCK TEQ	teq03002	not_set	Опрокидывающий цилиндр, кабина	-1	0
+TRUCK TEQ	teq03004	not_set	Опрокидывающий насос, кабина	-1	0
+TRUCK TEQ	teq03005	not_set	Опрокидывающий цилиндр, кабина	-1	0
+TRUCK TEQ	teq03006	not_set	Опрокидывающий насос, кабина	-1	0
+TRUCK TEQ	teq03006rk	not_set	Ремонтный комплект, опрокидывающий цилиндр	-1	0
+TRUCK TEQ	teq03007	not_set	Опрокидывающий насос, кабина	-1	0
+TRUCK TEQ	teq03008	not_set	Опрокидывающий насос, кабина	-1	0
+TRUCK TEQ	teq03010	not_set	Клапан, крепление кабины	-1	0
+TRUCK TEQ	teq03014	not_set	Клапан, крепление кабины	-1	0
+TRUCK TEQ	teq03015	TEQ-03.015	Опрокидывающий насос, кабина	-1	0
+TRUCK TEQ	teq03016	TEQ-03.016	Опрокидывающий насос, кабина	1	1739653200000
+TRUCK TEQ	teq03020	not_set	Опрокидывающий насос, кабина	-1	0
+TRUCK TEQ	teq03021	not_set	Опрокидывающий насос, кабина	-1	0
+TRUCK TEQ	teq03032	not_set	Опрокидывающий цилиндр, кабина	-1	0
+TRUCK TEQ	teq03033	not_set	Опрокидывающий цилиндр, кабина	-1	0
+TRUCK TEQ	teq03039	not_set	Опрокидывающий цилиндр, кабина	-1	0
+TRUCK TEQ	teq03041	not_set	Опрокидывающий насос, кабина	-1	0
+TRUCK TEQ	teq03048	TEQ-03.048	Опрокидывающий насос, кабина	1	1739653200000
+TRUCK TEQ	teq03054	not_set	Опрокидывающий цилиндр, кабина	-1	0
+TRUCK TEQ	teq04001	not_set	Натяжной ролик, клиновой ремень	-1	0
+TRUCK TEQ	teq06002	not_set	Ручка рычага переключения передач	-1	0
+TRUCK TEQ	teq06003	not_set	Ручка рычага переключения передач	-1	0
+TRUCK TEQ	teq06006	not_set	Ручка рычага переключения передач	-1	0
+TRUCK TEQ	teq07005	TEQ.07-005	Водяной насос, система очистки окон	1	1739653200000
+TRUCK TEQ	teqbc001	TEQBC001	Тормозной суппорт	1	1739653200000
+TRUCK TEQ	teqbc002	TEQBC002	Тормозной суппорт	1	1739653200000
+TRUCK TEQ	teqbc005	not_set	Тормозной суппорт	-1	0
+TRUCK TEQ	teqbc006	not_set	Тормозной суппорт	-1	0
+TRUCK TEQ	teqbc007	not_set	Тормозной суппорт	-1	0
+TRUCK TEQ	teqbc014	not_set	Тормозной суппорт	-1	0
+TRUCK TEQ	teqbc016	TEQBC016	Тормозной суппорт	1	1739653200000
+TRUCK TEQ	teqbc017	not_set	Тормозной суппорт	-1	0
+TRUCK TEQ	teqbc020	TEQBC020	Тормозной суппорт	1	1739653200000
+TRUCK TEQ	teqbc022	not_set	Тормозной суппорт	-1	0
+TRUCK TEQ	teqbc024	TEQBC024	Тормозной суппорт	1	1739653200000
+TRUCK TEQ	teqbc026	not_set	Тормозной суппорт	-1	0
+TRUCK TEQ	teqbc031	TEQBC031	Тормозной суппорт	1	1739653200000
+TRUCK TEQ	teqbc033	not_set	Тормозной суппорт	-1	0
+TRUCK TEQ	teqbc036n	not_set	Тормозной суппорт	-1	0
+TRUCK TEQ	teqbc037	TEQ-BC.037	Тормозной суппорт	-1	1568541762470
+TRUCK TEQ	teqbc046	not_set	Тормозной суппорт	-1	0
+TRUCK TEQ	teqbc068	not_set	Тормозной суппорт	-1	0
+TRUCK TEQ	teqbc074	not_set	Тормозной суппорт	-1	0
+TRUCK TEQ	volse005	not_set	Датчик, температура охлаждающей жидкости	-1	0
+TRUCK TEQ	volse006	not_set	Датчик, уровень охлаждающей жидкости	-1	0
+TRUCK TEQ	volse010	not_set	Датчик	-1	0
+TRUCK TEQ	volse012	not_set	Датчик, импульс зажигания| Датчик, положение распределительного вала	-1	0
+TRUCK TEQ	wpiv105	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpiv108	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpiv110	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpiv111	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpiv114	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpme108	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpme111rk	not_set	Ремкомплект, водяной насос	-1	0
+TRUCK TEQ	wpme115	WP-ME115	Водяной насос	1	1739653200000
+TRUCK TEQ	wpme119	WP-ME119	Водяной насос	-1	0
+TRUCK TEQ	wpme121	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpme122	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpme124	WP-ME124	Водяной насос	-1	0
+TRUCK TEQ	wpme127	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpme127rk	not_set	Ремкомплект, водяной насос	-1	0
+TRUCK TEQ	wpme138	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpme140	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpmn101	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpmn106	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpmn122	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpmn124	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpmn125	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpmn126	WP-MN126	Насос водяной	1	1739653200000
+TRUCK TEQ	wprv115	WP-RV115	Водяной насос	-1	1588369178617
+TRUCK TEQ	wpsc111	WP-SC111	Водяной насос	-1	1570231365359
+TRUCK TEQ	wpsc118	WP-SC118	Водяной насос	1	1739653200000
+TRUCK TEQ	wpsc119	WP-SC119	Водяной насос	1	1739653200000
+TRUCK TEQ	wpvl101	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpvl104	not_set	Водяной насос	-1	0
+TRUCK TEQ	wpvl117	not_set	Водяной насос	-1	0

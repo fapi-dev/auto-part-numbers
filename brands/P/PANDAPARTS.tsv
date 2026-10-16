@@ -1,0 +1,101 @@
+﻿mfd	ns	n	d	tp	upd
+PANDAPARTS	daew02	DAEW02	Радиатор двигателя	-1	1683300471477
+PANDAPARTS	daew0414	DAEW04-1.4	Радиатор двигателя	-1	1721221232152
+PANDAPARTS	daih0107	DAIH01-07	Радиатор охлаждения, daihatsu terios, toyota cami 2007	-1	1721221957073
+PANDAPARTS	fd0220	FD02-2.0	Радиатор охлаждения, ford mondeo 2.0d, 2.2d 2001-2006	-1	1699643030245
+PANDAPARTS	hon01303	HON013-03	Радиатор охлаждения, honda fit, jazz gd# l13a, l15a 2003-2007	-1	1752147628836
+PANDAPARTS	hon03cu	HON03-CU	Радиатор охлаждения, honda accord 2.0, 2.4 2008-2013	-1	1723473492603
+PANDAPARTS	hon33a50	HON-33A50	Шрус наружный, honda accord, cr-v, inspire, odyssey, saber, prelude ch9, cf4, cl#, rd1, bb#, 4wd, ua#, ra# f20b, h22a, h23a, b20b, g20a, g25a, f22b	-1	1759491608942
+PANDAPARTS	hon36	HON-36	Шрус наружный, honda cr-v, civic ferio, domani, integra, prelude rd1, ek5, eg9, eh1, db#, da#, ba# b20b, b20a, b18b, b16a, d13b, d16a, zc abs	-1	1747370935794
+PANDAPARTS	hon55a50	HON-55A50	Шрус наружный, honda accord, civic, hr-v, stream, torneo cf3, cf4, cf5 4wd, cf6, cf7 4wd, cl#, es2 4wd, es3, eu3, eu4 4wd, gh# , gh2 4wd, gh4 4wd, rn#	-1	1764584465260
+PANDAPARTS	hyun0326	HYUN03-26	Радиатор охлаждения, hyundai getz 1.6 2002-2009	-1	1688821692028
+PANDAPARTS	hyun0616	HYUN06-1.6	Радиатор охлаждения	-1	1690554761398
+PANDAPARTS	hyun07td	HYUN07-TD	Радиатор охлаждения	-1	1681714558006
+PANDAPARTS	kia0506	KIA05-06	Радиатор охлаждения, kia ceed 1.4, 1.6 2007-2012	-1	1721220387838
+PANDAPARTS	maz14	MAZ-14	Шрус наружный, mazda demio dw#w b3, b5	-1	1687931755343
+PANDAPARTS	maz14a44	MAZ-14A44	Шрус наружный, mazda demio dw#w b3, b5 abs	-1	1687931755343
+PANDAPARTS	maz24	MAZ-24	Шрус наружный, mazda familia bg8sp, bha#, bj3p b3, b5, 4ee1, bp, z5	-1	1699645626031
+PANDAPARTS	maz38a44	MAZ-38A44	Шрус наружный, mazda capella gfer, gw5r, gwer fs-de, kl-ze abs	-1	1737625242364
+PANDAPARTS	maz39a44	MAZ-39A44	Шрус наружный, mazda capella gfep, gf8p fp-de, fs-de abs	-1	1699642605589
+PANDAPARTS	maz40	MAZ-40	Шрус наружный, mazda axela, mazda 3 bk5p zy-ve	-1	1714032987325
+PANDAPARTS	maz42	MAZ-42	Шрус наружный, mazda axela, mazda 3 bk5p zy-ve	-1	1701840357209
+PANDAPARTS	maz43	MAZ-43	Шрус наружный, mazda axela, mazda 3 bk3p l3-ve	-1	1764761014585
+PANDAPARTS	mmc18	MMC-18	Шрус наружный, mitsubishi diamante f11a, f12a, f13a 6a12, 6g71, 6g73	-1	1684498720342
+PANDAPARTS	mmc32a43	MMC-32A43	Шрус наружный, mitsubishi legnum ec4w, ec5w 6a12, 6a13 4wd abs	-1	1681713788130
+PANDAPARTS	mmc38a43	MMC-38A43	Шрус наружный, mitsubishi lancer cedia cs5w, cs2a 4g15, 4g93 abs	-1	1761303509961
+PANDAPARTS	nis0211qd	NIS02-11-QD	Радиатор охлаждения, nissan bluebird, primera, tino qu14, w11, w10 qg18de, sr20de	-1	1770263536506
+PANDAPARTS	nis0433	NIS04-33	Радиатор охлаждения, nissan cefiro, maxima #a33 vq20, vq25, vq30	-1	1763165827584
+PANDAPARTS	nis05	NIS-05	Шрус наружный, nissan ad, almera, pulsar b11, n12 e13s	-1	1690554358713
+PANDAPARTS	nis17	NIS-17	Шрус наружный, nissan ad, sunny, pulsar, presea #y10, r1#, n14, n15 cd17, ga15d#, sr18d#	-1	1785190130000
+PANDAPARTS	nis19	NIS-19	Шрус наружный, nissan avenir, bluebird, serena, largo ve#, vs#, w10, u12, u14, ed7, ud7, w30, c23 sr20de, cd20t, cd20det, ga16ds, sr18, ka24de	-1	1755491550746
+PANDAPARTS	nis44a42	NIS-44A42	Шрус наружный, nissan march, micra k11 cg10de, cg13de abs	-1	1711782448333
+PANDAPARTS	nis57a44	NIS-57A44	Шрус наружный, nissan primera p11 qg18de abs	-1	1745507735531
+PANDAPARTS	nis60a42	NIS-60A42	Шрус наружный, nissan ad, sunny, wingroad, bluebird sylphy #y11, b15, #g10 qg13de, qg15de abs	-1	1772732584812
+PANDAPARTS	nis61a42	NIS-61A42	Шрус наружный, nissan ad, sunny, wingroad, bluebird sylphy #y11, #b15, g10 4wd qg15de, qg18de abs	-1	1721220654208
+PANDAPARTS	pp12	PP-12	Ремкомплект двс toyota 1sz-fe	-1	1694944201782
+PANDAPARTS	pp13	PP-13	Ремкомплект двс toyota 1nz-fe	-1	1758092159178
+PANDAPARTS	pp14	PP-14	Ремкомплект двс, toyota 1kz-te pp14	-1	1694944204162
+PANDAPARTS	pp15	PP-15	Ремкомплект двс toyota 1g-fe	-1	1721114850152
+PANDAPARTS	pp16	PP-16	Ремкомплект двс subaru ej25	-1	1684498886700
+PANDAPARTS	pp17	PP-17	Ремкомплект двс subaru ej20	-1	1763641417519
+PANDAPARTS	pp18	PP-18	Ремкомплект двс nissan vq20 a32	-1	1721219859902
+PANDAPARTS	pp22	PP-22	Ремкомплект двс nissan qg18-de	-1	1699642830496
+PANDAPARTS	pp224482y005	PP-22448-2Y005	Катушка зажинания nissan vq20de, vq30de lh (с 4 по 6 цилиндр, со стороны переднего бампера)	-1	1683300258974
+PANDAPARTS	pp22448al615	PP-22448-AL615	Катушка зажигания nissan vq25dd, vq30dd, vq35de, skyline v3#, infiniti ex#, fx#	-1	1684499320218
+PANDAPARTS	pp22448ja00c	PP-22448-JA00C	Катушка зажигания nissan qr25de, hr15de, hr16de, mr18de, mr20de	-1	1770034797835
+PANDAPARTS	pp26	PP-26	Ремкомплект двс honda f23a	-1	1711784443351
+PANDAPARTS	pp26310aa021	PP-26310-AA021	Диск тормозной передний, subaru impreza, legacy gc#, bd#	-1	1755434342356
+PANDAPARTS	pp2658257b00	PP-26582-57B00	Фильтр акпп suzuki escudo, grand vitara	-1	1769147634956
+PANDAPARTS	pp27	PP-27	Ремкомплект двс honda d17a	-1	1693832069776
+PANDAPARTS	pp28	PP-28	Прокладки двигателя, комплект	-1	1693831237217
+PANDAPARTS	pp3172841x02	PP-31728-41X02	Фильтр акпп nissan laurel c35, caravan e24, serena c23, skyline r32, r33, largo w30, cefiro a32, a33, cedric, gloria y31, y32, y33	-1	1687932147562
+PANDAPARTS	pp3533032022	PP-35330-32022	Фильтр акпп toyota 1vz-fe, 2c-t, 3c-t, 3s-fe, 4s-fe, 5s-fe	-1	1723474955077
+PANDAPARTS	pp402062y505	PP-40206-2Y505	Диск тормозной передний, nissan cefiro, maxima, laurel, skyline, stagea, tino #a32, #a33, c35, #r3	-1	1755520406761
+PANDAPARTS	pp4020671e06	PP-40206-71E06	Диск тормозной передний, nissan almera, avenir, bluebird, bluebird sylphy, sunny n16, #w10, u14, #g10, #b15	-1	1771486149722
+PANDAPARTS	pp4020688e05	PP-40206-88E05	Диск тормозной передний, nissan avenir, expert, cefiro, maxima, laurel, primera w11, #a32, #a33, c	-1	1679467773927
+PANDAPARTS	pp40206cl70a	PP-40206-CL70A	Диск тормозной передний, infiniti ex#, fx35, fx37, fx45, fx50 2003-, g25, g35, g37 2006-, m35	-1	1748274452192
+PANDAPARTS	pp40206eb320	PP-40206-EB320	Диск тормозной передний, nissan navara, pathfinder d40m, r51m 2005	-1	1746434587441
+PANDAPARTS	pp40206ve800	PP-40206-VE800	Диск тормозной передний, nissan terrano, pathfinder r50 1995-2002	-1	1714031784784
+PANDAPARTS	pp4351216070	PP-43512-16070	Диск тормозной передний, toyota corolla ii, corsa, starlet, tercel el#, ep# 1990-1999	-1	1723475055896
+PANDAPARTS	pp4351226090	PP-43512-26090	Диск тормозной передний, toyota hiace, hiace regius #h11# 1989-2006	-1	1687930965796
+PANDAPARTS	pp4351228130	PP-43512-28130	Диск тормозной передний, toyota lite ace, town ace, town ace noah cr#, sr# 1992-1999	-1	1681712985599
+PANDAPARTS	pp4351233040	PP-43512-33040	Диск тормозной передний, toyota avalon, camry gracia, scepter, estima, gaia, ipsum, nadia, noah, voxy	-1	1758786280822
+PANDAPARTS	pp4351233090	PP-43512-33090	Диск тормозной передний, toyota camry acv3# 2001-2006	-1	1725097713092
+PANDAPARTS	pp4351242090	PP-43512-42090	Диск тормозной передний, toyota rav4 aca3#, ala3# 2005-2012	-1	1749980792530
+PANDAPARTS	pp4351248020	PP-43512-48020	Диск тормозной передний, toyota camry, harrier, windom, lexus rx300, lexus es300 acv3#, mcv3#, acu1	-1	1723474099199
+PANDAPARTS	pp4351252020	PP-43512-52020	Диск тормозной передний, toyota platz, vitz, yaris ncp1#, scp1# 1999-2005	-1	1723473533205
+PANDAPARTS	pp4351252040	PP-43512-52040	Диск тормозной передний, toyota bb, funcargo, ist, probox, succeed, vitz, yaris ncp3#, ncp2#, ncp6	-1	1756301145394
+PANDAPARTS	pp44310s10a00	PP-44310-S10-A00	ШРУС внутренний	-1	1681713213288
+PANDAPARTS	pp45251s10000	PP-45251-S10-000	Диск тормозной передний, honda cr-v rd1 1995-2001, accord, torneo cf3 f18b 1997-2002	-1	1723474538546
+PANDAPARTS	pp45251s1ag00	PP-45251-S1A-G00	Диск тормозной передний, honda accord, torneo cf#	-1	1721114555964
+PANDAPARTS	pp45251s7an10	PP-45251-S7A-N10	Диск тормозной передний, honda accord, civic, cr-v, element, inspire, saber, stepwgn, stream cl#	-1	1763725333714
+PANDAPARTS	pp45251sr3a10	PP-45251-SR3-A10	Диск тормозной передний, honda capa, domani, logo, civic, civic ferio ga#, ma#, mb#, ek#, es#	-1	1755319737699
+PANDAPARTS	pp4615a115	PP-4615A115	Диск тормозной передний, mitsubishi delica, lancer x cv#w 2007	-1	1723473526618
+PANDAPARTS	pp5531180g02	PP-55311-80G02	Диск тормозной передний, suzuki swift ht# 2000-2004	-1	1693830750955
+PANDAPARTS	pp9091902218	PP-90919-02218	Катушка зажигания toyota 3s-fe, 5s-fe, 1zz-fe	-1	1714031449744
+PANDAPARTS	pp9091902252	PP-90919-02252	Катушка зажигания toyota 1zr-fe	-1	1771565471707
+PANDAPARTS	ppbr703325xf	PP-BR70-33-25XF	Диск тормозной передний, mazda familia, 323 bj# 1998-2003	-1	1747752878130
+PANDAPARTS	ppc26y3325xa	PP-C26Y-33-25XA	Диск тормозной передний, mazda 3 , axela bk#p 2003-2008	-1	1746708722296
+PANDAPARTS	ppl3g218100a	PP-L3G2-18-100A	КАТУШКА ЗАЖИГАНИЯ MAZDA L3-VE (MAZDA 3, MAZDA 5, C	-1	1755246711908
+PANDAPARTS	ppmb407038	PP-MB407038	Диск тормозной передний, mitsubishi pajero, delica, l300 v4#, p2#w, p3#w	-1	1716979664743
+PANDAPARTS	ppmb895730	PP-MB895730	Диск тормозной передний, mitsubishi delica, l400 pd#, pe#, pf# 1994-2006	-1	1740055557229
+PANDAPARTS	ppmd334043	PP-MD334043	Провода высоковольтные, комплект mmc 4g6#	-1	1723473644855
+PANDAPARTS	ppmr510966	PP-MR510966	Диск тормозной передний, mitsubishi chariot, diamante, dion, fto n8#w, f1#a, cr#w, de2a, de3a	-1	1721115044682
+PANDAPARTS	ppmr528836	PP-MR528836	Фильтр акпп mmc pajero 2000	-1	1690553853716
+PANDAPARTS	ppmr699285	PP-MR699285	Диск тормозной передний, mitsubishi lancer, lancer cedia cs#a, ck#a, cm#w	-1	1716978977654
+PANDAPARTS	ppr125	PP-R125	Крышка радиатора toyota, nissan, mazda, suzuki, mmc, hino, dihatsu 0.9 низкий клапан	-1	1690554510010
+PANDAPARTS	sub03t	SUB03-T	Радиатор охлаждения, subaru legacy bd# ej20-t, forester sf5 ej20-t	-1	1716978534870
+PANDAPARTS	suz01sx4	SUZ01-SX4	Радиатор охлаждения, suzuki sx4 ya#, yb# m15a, m16a	-1	1721220193252
+PANDAPARTS	suz11	SUZ-11	Шрус наружный, suzuki escudo, vitara ta11w, ta31w, td11w, td31w h20a, rf	-1	1714031202146
+PANDAPARTS	toy02at190	TOY02-AT190	Радиатор охлаждения, toyota caldina, carina, corona at19# 4a-fe, 5a-fe, 7a-fe	-1	1732799867790
+PANDAPARTS	toy03mcu30	TOY03-MCU30	Радиатор охлаждения, toyota harrier, lexus rx300, rx330 mcu3# 1mz-fe, 3mz-fe 2003-2009 (крепления верх/низ)	-1	1711785031326
+PANDAPARTS	toy03sxv20	TOY03-SXV20	Радиатор охлаждения, toyota camry gracia, mark ii qualis sxv2# 5s-fe	-1	1711785029909
+PANDAPARTS	toy04zca20	TOY04-ZCA20	Радиатор охлаждения, toyota rav4 zca2# 1zz-fe	-1	1711781517954
+PANDAPARTS	toy08j95d	TOY08-J95D	Радиатор охлаждения, toyota land cruiser prado, hilux surf kzj9#, kzn18# 1kz-te	-1	1763342440349
+PANDAPARTS	toy09	TOY-09	Шрус наружный, toyota caldina, camry, vista, carina, corona, corolla, corolla spacio, ipsum, sprinter, carib at19#, st19#, st21#, sv#, cv#, vzv#, a	-1	1737010821587
+PANDAPARTS	toy13a48	TOY-13A48	Шрус наружный, toyota camry, windom, mark ii qualis, scepter mcv2#, vcv# 1mz-fe, 2mz-fe, 3vz-fe abs	-1	1714032586126
+PANDAPARTS	toy25	TOY-25	Шрус наружный, toyota caldina, camry, vista, carina, corona, corolla, corolla spacio, ipsum, sprinter, carib at19#, st19#, st21#, sv#, cv#, vzv#, a	-1	1681713187162
+PANDAPARTS	toy35a48	TOY-35A48	Шрус наружный, toyota bb, fun cargo, ist, probox, succeed, raum, vitz, platz, yaris ncp3#, ncp2#, ncp1#, ncp5#, nlp1# 1nz-fe, 1nd#, 2nz-fe abs	-1	1760862477109
+PANDAPARTS	toy55a	TOY-55A	Шрус наружный, toyota allex, corolla, corolla fielder, corolla runx, rav4, wish ce12#, #ze12#, zca2#, zne1# 1nz-fe, 1zz-fe, 2zz-ge, 3ce 24 шлица a	-1	1772421543017
+PANDAPARTS	toy66a48	TOY-66A48	Шрус наружный, toyota harrier mcu1# 1mz-fe abs	-1	1763462967985
+PANDAPARTS	toy73a48	TOY-73A48	Шрус наружный, toyota vitz 1sz-fe abs	-1	1685882136472
